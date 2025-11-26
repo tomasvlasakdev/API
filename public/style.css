@@ -1,0 +1,391 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: #000000;
+  color: #ffffff;
+  height: 100vh;
+}
+
+.container {
+  margin-left: 300px;
+  padding: 2rem;
+  display: flex;
+  height: 100vh;
+  background: linear-gradient(135deg, #12121c 0%, #1b1b2b 100%);
+}
+
+#title_log {
+  margin-bottom: 10px;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+/* === SIDEBAR === */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 300px;
+  background: #1e1e2f;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+  padding: 1.5rem 1rem;
+}
+
+.sidebar-header {
+  float: left;
+}
+
+.sidebar-header h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-align: center;
+  color: #00aaff;
+  margin-bottom: 2rem;
+}
+
+/* === NAV LINKS === */
+.sidebar-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-top: 10px;
+}
+
+.sidebar-nav a {
+  color: #ddd;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  transition: background 0.3s, color 0.3s;
+}
+
+.sidebar-nav a:hover {
+  background: #2b2b45;
+  color: #fff;
+}
+
+.sidebar-nav a.active {
+  background: #00aaff;
+  color: #fff;
+}
+
+/* === USER DROPDOWN === */
+.sidebar-user {
+  position: relative;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.user-btn {
+  background: none;
+  border: none;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  transition: background 0.3s;
+  border-radius: 8px;
+  width: 100%;
+  text-align: left;
+}
+
+.user-btn:hover {
+  background: #2b2b45;
+}
+
+.user-dropdown {
+  display: none;
+  position: absolute;
+  bottom: 50px;
+  left: 10px;
+  background: #2b2b45;
+  border-radius: 8px;
+  width: calc(100% - 20px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  text-align: left;
+  overflow: hidden;
+}
+
+.user-dropdown.show {
+  display: block;
+}
+
+.user-dropdown a {
+  display: block;
+  color: #ccc;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  transition: background 0.3s, color 0.3s;
+}
+
+.user-dropdown a:hover {
+  background: #00aaff;
+  color: #fff;
+}
+
+
+#refresh{
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  font-weight: 500;
+}
+
+#refresh a {
+  transition: background 0.3s, color 0.3s;
+  text-decoration: none;
+  padding: 0.75rem 2rem;
+  border-radius: 8px;
+  background: #1e1e2f;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  
+
+}
+
+#refresh a:hover {
+  background: #2b2b45;
+  color: #fff;
+}
+
+#refresh p {
+  color: #ddd;
+}
+
+/* === DASHBOARD GRID === */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  /* 3 sloupce */
+  gap: 2rem;
+  /* mezery mezi kartami */
+  margin-top: 2.5rem;
+  padding: 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+/* === CARD DESIGN === */
+.card {
+  background: linear-gradient(145deg, #1e1e2f, #25253b);
+  color: #fff;
+  border-radius: 20px;
+  padding: 2.5rem 1.5rem;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  min-height: 200px;
+}
+
+.card:nth-child(1)::before {
+  top: -40px;
+  left: -40px;
+}
+
+.card:nth-child(2)::before {
+  top: -60px;
+  right: -60px;
+}
+
+.card:nth-child(3)::before {
+  bottom: -50px;
+  left: -30px;
+}
+
+.card:nth-child(4)::before {
+  top: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+}
+
+.card:nth-child(5)::before {
+  bottom: -40px;
+  right: -40px;
+}
+
+.card:nth-child(6)::before {
+  top: -30px;
+  left: 60%;
+  transform: translateX(-50%);
+}
+
+
+.card::before {
+  content: "";
+  position: absolute;
+  top: -25%;
+  right: -25%;
+  width: 180px;
+  height: 180px;
+  background: rgba(0, 170, 255, 0.1);
+  border-radius: 50%;
+  z-index: 0;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.4);
+  background: linear-gradient(145deg, #25253b, #2f2f4a);
+}
+
+/* === TEXT INSIDE CARDS === */
+.card h3 {
+  font-size: 1.2rem;
+  color: #aaa;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  position: relative;
+  z-index: 1;
+}
+
+.card p {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #00aaff;
+  position: relative;
+  z-index: 1;
+  margin: 0;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 1024px) {
+  .cards {
+    grid-template-columns: repeat(2, 1fr);
+    /* tablety: 2 karty v řadě */
+  }
+}
+
+@media (max-width: 768px) {
+  .cards {
+    grid-template-columns: 1fr;
+    /* mobily: 1 karta na řádek */
+  }
+
+  .card {
+    min-height: 160px;
+    padding: 2rem 1rem;
+  }
+
+  .card p {
+    font-size: 2rem;
+  }
+}
+
+.log {
+  background: linear-gradient(145deg, #1e1f29, #232434);
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  min-height: 100%;
+  min-width: 100%;
+  flex-direction: column;
+  display: flex;
+}
+
+.filters {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+select {
+  padding: 0.5rem;
+  border-radius: 8px;
+  background: #2a2b3d;
+  color: #fff;
+  border: none;
+}
+
+.log-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  
+  min-height: 510px;
+}
+
+.log-list li {
+  background: linear-gradient(145deg, #23233a, #2e2e48);
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 0.8rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transition: all 0.25s ease;
+  min-height: 70px;
+}
+
+.log-list li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* 🔹 Stránkování */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: auto;
+}
+
+.page-btn {
+  background: #222436;
+  color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.25s;
+}
+
+.page-btn:hover:not(.active):not(.disabled) {
+  background: #00b4ff;
+}
+
+.page-btn.active {
+  background: #00b4ff;
+  color: #fff;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0, 180, 255, 0.6);
+}
+
+.page-btn.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.dots {
+  color: #888;
+}
+
+.page-info {
+  margin-left: 1rem;
+  font-size: 0.9rem;
+  color: #aaa;
+}

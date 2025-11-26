@@ -1,0 +1,1970 @@
+[
+    {
+        "timestamp": "2025-10-03 08:05:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df67a012e3e",
+        "pid": 2416653
+    },
+    {
+        "timestamp": "2025-10-03 08:05:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df67a019896",
+        "pid": 2416653
+    },
+    {
+        "timestamp": "2025-10-03 08:05:34",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df67ae67268",
+        "pid": 2416653
+    },
+    {
+        "timestamp": "2025-10-03 08:07:52",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df683866ccb",
+        "pid": 2416715
+    },
+    {
+        "timestamp": "2025-10-03 08:07:52",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df68386e71b",
+        "pid": 2416715
+    },
+    {
+        "timestamp": "2025-10-03 08:08:06",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df6846bae55",
+        "pid": 2416715
+    },
+    {
+        "timestamp": "2025-10-03 08:10:25",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df68d10016f",
+        "pid": 2416749
+    },
+    {
+        "timestamp": "2025-10-03 08:10:25",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df68d10790d",
+        "pid": 2416749
+    },
+    {
+        "timestamp": "2025-10-03 08:10:39",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df68df54306",
+        "pid": 2416749
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df7f0eab7e2",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:34",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92ec20f3",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 09:45:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f0ed3a77",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 09:45:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df7f1d2c2fc",
+        "pid": 2425555
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f23cd0ec",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:53:55",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TRUNCAT TABLE DATA_API_HOUSING' at line 1",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f23d0124",
+        "pid": 2430713
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68df8f8adb336",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:38",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f8ae4071",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 10:55:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68df8f99256f0",
+        "pid": 2430738
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc83bb2a4a",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc83bbc0b8",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 14:57:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc84a10ebb",
+        "pid": 2450610
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68dfc9203a1e5",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-03 15:01:20",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68dfc92040f89",
+        "pid": 2451851
+    },
+    {
+        "timestamp": "2025-10-06 11:49:37",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68e390b132936",
+        "pid": 2794277
+    },
+    {
+        "timestamp": "2025-10-06 11:49:37",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e390b13cc5d",
+        "pid": 2794277
+    },
+    {
+        "timestamp": "2025-10-06 11:49:51",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e390bfeb44d",
+        "pid": 2794277
+    },
+    {
+        "timestamp": "2025-10-06 11:49:52",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68e390c073998",
+        "pid": 2794277
+    },
+    {
+        "timestamp": "2025-10-06 11:49:52",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e390c079fcd",
+        "pid": 2794277
+    },
+    {
+        "timestamp": "2025-10-06 11:50:10",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e390d2372c1",
+        "pid": 2794277
+    },
+    {
+        "timestamp": "2025-10-08 09:40:18",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68e61562173f0",
+        "pid": 135525
+    },
+    {
+        "timestamp": "2025-10-08 09:40:18",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e615623e6f9",
+        "pid": 135525
+    },
+    {
+        "timestamp": "2025-10-08 09:40:32",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e61570bf162",
+        "pid": 135525
+    },
+    {
+        "timestamp": "2025-10-08 11:45:40",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68e632c416dec",
+        "pid": 150139
+    },
+    {
+        "timestamp": "2025-10-08 11:45:40",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e632c43266d",
+        "pid": 150139
+    },
+    {
+        "timestamp": "2025-10-08 11:45:54",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e632d274e65",
+        "pid": 150139
+    },
+    {
+        "timestamp": "2025-10-08 14:06:54",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68e653de3d1ad",
+        "pid": 161863
+    },
+    {
+        "timestamp": "2025-10-08 14:06:54",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e653de47a01",
+        "pid": 161863
+    },
+    {
+        "timestamp": "2025-10-08 14:07:08",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e653ec62b3a",
+        "pid": 161863
+    },
+    {
+        "timestamp": "2025-10-09 06:44:09",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68e73d9904b9f",
+        "pid": 246139
+    },
+    {
+        "timestamp": "2025-10-09 06:44:09",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e73d9929f5a",
+        "pid": 246139
+    },
+    {
+        "timestamp": "2025-10-09 06:44:23",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e73da77654d",
+        "pid": 246139
+    },
+    {
+        "timestamp": "2025-10-09 06:44:24",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68e73da80b4bb",
+        "pid": 246139
+    },
+    {
+        "timestamp": "2025-10-09 06:44:24",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e73da812403",
+        "pid": 246139
+    },
+    {
+        "timestamp": "2025-10-09 06:44:38",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e73db63535f",
+        "pid": 246139
+    },
+    {
+        "timestamp": "2025-10-09 15:23:12",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68e7b74057c05",
+        "pid": 293962
+    },
+    {
+        "timestamp": "2025-10-09 15:23:12",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e7b7405deff",
+        "pid": 293962
+    },
+    {
+        "timestamp": "2025-10-09 15:23:26",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e7b74e9a8ae",
+        "pid": 293962
+    },
+    {
+        "timestamp": "2025-10-10 07:23:59",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68e8986f2f58e",
+        "pid": 376074
+    },
+    {
+        "timestamp": "2025-10-10 07:23:59",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e8986f3a5ec",
+        "pid": 376074
+    },
+    {
+        "timestamp": "2025-10-10 07:24:13",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68e8987d7cefe",
+        "pid": 376074
+    },
+    {
+        "timestamp": "2025-10-15 09:48:37",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef51d508727",
+        "pid": 993562
+    },
+    {
+        "timestamp": "2025-10-15 09:48:37",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef51d518117",
+        "pid": 993562
+    },
+    {
+        "timestamp": "2025-10-15 09:48:51",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef51e36c34d",
+        "pid": 993562
+    },
+    {
+        "timestamp": "2025-10-15 10:03:30",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef555271e57",
+        "pid": 995285
+    },
+    {
+        "timestamp": "2025-10-15 10:03:30",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef55527b945",
+        "pid": 995285
+    },
+    {
+        "timestamp": "2025-10-15 10:03:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef556240da6",
+        "pid": 995285
+    },
+    {
+        "timestamp": "2025-10-15 10:04:29",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef558d84b55",
+        "pid": 995311
+    },
+    {
+        "timestamp": "2025-10-15 10:04:29",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef558d8b888",
+        "pid": 995311
+    },
+    {
+        "timestamp": "2025-10-15 10:04:45",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef559d1daa9",
+        "pid": 995311
+    },
+    {
+        "timestamp": "2025-10-15 10:04:46",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef559e977ca",
+        "pid": 995311
+    },
+    {
+        "timestamp": "2025-10-15 10:04:46",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef559e9e88c",
+        "pid": 995311
+    },
+    {
+        "timestamp": "2025-10-15 10:05:02",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef55aea45fe",
+        "pid": 995311
+    },
+    {
+        "timestamp": "2025-10-15 10:10:12",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef56e479881",
+        "pid": 995451
+    },
+    {
+        "timestamp": "2025-10-15 10:10:12",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef56e480d5e",
+        "pid": 995451
+    },
+    {
+        "timestamp": "2025-10-15 10:10:26",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef56f2d23d0",
+        "pid": 995451
+    },
+    {
+        "timestamp": "2025-10-15 10:11:33",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef5735b02db",
+        "pid": 995487
+    },
+    {
+        "timestamp": "2025-10-15 10:11:33",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef5735b7425",
+        "pid": 995487
+    },
+    {
+        "timestamp": "2025-10-15 10:11:48",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef574449ebc",
+        "pid": 995487
+    },
+    {
+        "timestamp": "2025-10-15 10:13:19",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef579f8cf7c",
+        "pid": 995567
+    },
+    {
+        "timestamp": "2025-10-15 10:13:19",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef579f94538",
+        "pid": 995567
+    },
+    {
+        "timestamp": "2025-10-15 10:13:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef57adc4519",
+        "pid": 995567
+    },
+    {
+        "timestamp": "2025-10-15 10:13:43",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef57b761b37",
+        "pid": 995567
+    },
+    {
+        "timestamp": "2025-10-15 10:13:43",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef57b7698fa",
+        "pid": 995567
+    },
+    {
+        "timestamp": "2025-10-15 10:13:57",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef57c5a797e",
+        "pid": 995567
+    },
+    {
+        "timestamp": "2025-10-15 10:16:09",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef5849a0e18",
+        "pid": 996891
+    },
+    {
+        "timestamp": "2025-10-15 10:16:33",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef5861253ae",
+        "pid": 996911
+    },
+    {
+        "timestamp": "2025-10-15 10:16:39",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef58674ef48",
+        "pid": 996911
+    },
+    {
+        "timestamp": "2025-10-15 10:16:59",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef587b47731",
+        "pid": 996955
+    },
+    {
+        "timestamp": "2025-10-15 10:17:02",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef587e42c4f",
+        "pid": 996955
+    },
+    {
+        "timestamp": "2025-10-15 10:18:36",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef58dc6ad86",
+        "pid": 997006
+    },
+    {
+        "timestamp": "2025-10-15 10:18:55",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef58ef4b81f",
+        "pid": 997014
+    },
+    {
+        "timestamp": "2025-10-15 10:19:39",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef591b79280",
+        "pid": 997028
+    },
+    {
+        "timestamp": "2025-10-15 10:19:39",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef591b8065d",
+        "pid": 997028
+    },
+    {
+        "timestamp": "2025-10-15 10:19:53",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef5929bed5c",
+        "pid": 997028
+    },
+    {
+        "timestamp": "2025-10-15 10:20:04",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef59343259b",
+        "pid": 997028
+    },
+    {
+        "timestamp": "2025-10-15 10:20:04",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef593439e29",
+        "pid": 997028
+    },
+    {
+        "timestamp": "2025-10-15 10:20:18",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef5942a86ea",
+        "pid": 997028
+    },
+    {
+        "timestamp": "2025-10-15 10:20:26",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef594ad6969",
+        "pid": 997028
+    },
+    {
+        "timestamp": "2025-10-15 10:20:26",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef594addeed",
+        "pid": 997028
+    },
+    {
+        "timestamp": "2025-10-15 10:20:41",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef59591d429",
+        "pid": 997028
+    },
+    {
+        "timestamp": "2025-10-15 10:21:27",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef59875d3ad",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:21:27",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef5987645f6",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:21:41",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef5995a244a",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:21:42",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef59964886f",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:21:42",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef59965001b",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:21:58",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef59a6371cf",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:21:58",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef59a6d1828",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:21:58",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef59a6d9052",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:22:13",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef59b576667",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:22:19",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef59bb31cb8",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:22:19",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef59bb3935d",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:22:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef59c989642",
+        "pid": 997126
+    },
+    {
+        "timestamp": "2025-10-15 10:30:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef5ba7a3371",
+        "pid": 998519
+    },
+    {
+        "timestamp": "2025-10-15 10:30:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef5ba7cb203",
+        "pid": 998519
+    },
+    {
+        "timestamp": "2025-10-15 10:30:46",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef5bb6260c1",
+        "pid": 998519
+    },
+    {
+        "timestamp": "2025-10-15 10:57:17",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef61ed79603",
+        "pid": 1000575
+    },
+    {
+        "timestamp": "2025-10-15 10:57:17",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef61ed80359",
+        "pid": 1000575
+    },
+    {
+        "timestamp": "2025-10-15 10:57:31",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef61fbcebf5",
+        "pid": 1000575
+    },
+    {
+        "timestamp": "2025-10-15 10:57:50",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef620e5ca0c",
+        "pid": 1000590
+    },
+    {
+        "timestamp": "2025-10-15 10:57:50",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef620e63bbf",
+        "pid": 1000590
+    },
+    {
+        "timestamp": "2025-10-15 10:58:04",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef621cc5de7",
+        "pid": 1000590
+    },
+    {
+        "timestamp": "2025-10-15 11:58:47",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef70578f36a",
+        "pid": 1006744
+    },
+    {
+        "timestamp": "2025-10-15 11:58:47",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef705796a00",
+        "pid": 1006744
+    },
+    {
+        "timestamp": "2025-10-15 11:59:01",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef7065c4019",
+        "pid": 1006744
+    },
+    {
+        "timestamp": "2025-10-15 11:59:02",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef7066833cf",
+        "pid": 1006744
+    },
+    {
+        "timestamp": "2025-10-15 11:59:02",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef70668ae79",
+        "pid": 1006744
+    },
+    {
+        "timestamp": "2025-10-15 11:59:16",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef7074c7743",
+        "pid": 1006744
+    },
+    {
+        "timestamp": "2025-10-15 12:57:04",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68ef7e00aff47",
+        "pid": 1011818
+    },
+    {
+        "timestamp": "2025-10-15 12:57:04",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef7e00bce56",
+        "pid": 1011818
+    },
+    {
+        "timestamp": "2025-10-15 12:57:19",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68ef7e0f1a902",
+        "pid": 1011818
+    },
+    {
+        "timestamp": "2025-10-20 07:11:28",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68f5c4803afd6",
+        "pid": 1589535
+    },
+    {
+        "timestamp": "2025-10-20 07:11:28",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68f5c4804b1c6",
+        "pid": 1589535
+    },
+    {
+        "timestamp": "2025-10-20 07:11:42",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68f5c48e8552e",
+        "pid": 1589535
+    },
+    {
+        "timestamp": "2025-10-20 07:32:16",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68f5c96010d39",
+        "pid": 1591995
+    },
+    {
+        "timestamp": "2025-10-20 07:32:16",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68f5c96017d5d",
+        "pid": 1591995
+    },
+    {
+        "timestamp": "2025-10-20 07:32:30",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68f5c96e45e2d",
+        "pid": 1591995
+    },
+    {
+        "timestamp": "2025-10-20 11:58:03",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "API\/src\/download.php",
+        "request_id": "68f607abf009a",
+        "pid": 1614374
+    },
+    {
+        "timestamp": "2025-10-20 11:58:04",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68f607ac02fa2",
+        "pid": 1614374
+    },
+    {
+        "timestamp": "2025-10-20 11:58:18",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "API\/src\/import_data.php",
+        "request_id": "68f607ba4671a",
+        "pid": 1614374
+    },
+    {
+        "timestamp": "2025-11-05 10:15:53",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "weby\/API\/src\/download.php",
+        "request_id": "690b15c935918",
+        "pid": 1040560
+    },
+    {
+        "timestamp": "2025-11-05 10:15:53",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "690b15c93d3ea",
+        "pid": 1040560
+    },
+    {
+        "timestamp": "2025-11-05 10:16:07",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "690b15d770c87",
+        "pid": 1040560
+    },
+    {
+        "timestamp": "2025-11-20 13:42:24",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "weby\/API\/src\/download.php",
+        "request_id": "691f0cb0ada67",
+        "pid": 2874612
+    },
+    {
+        "timestamp": "2025-11-20 13:42:24",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "691f0cb0b3f4d",
+        "pid": 2874612
+    },
+    {
+        "timestamp": "2025-11-20 13:42:38",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "691f0cbee21a0",
+        "pid": 2874612
+    },
+    {
+        "timestamp": "2025-11-26 09:54:16",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "weby\/API\/src\/download.php",
+        "request_id": "6926c038b98a4",
+        "pid": 3585310
+    },
+    {
+        "timestamp": "2025-11-26 09:54:16",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "6926c038c281a",
+        "pid": 3585310
+    },
+    {
+        "timestamp": "2025-11-26 09:54:31",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "6926c04740ead",
+        "pid": 3585310
+    }
+]

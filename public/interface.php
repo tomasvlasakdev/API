@@ -14,6 +14,8 @@ include_once './sendNotif.php';
   <link rel="stylesheet" href="style.css">
   <link rel="icon" type="image/x-icon" href="favicon.png">
   <script src='../library/functions.js'></script>
+  <script src="https://accounts.google.com/gsi/client" async></script>
+
 </head>
 <body>
   <div class="container">

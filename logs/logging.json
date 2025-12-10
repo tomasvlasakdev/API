@@ -1966,5 +1966,61 @@
         "source_file": "weby\/API\/src\/import_data.php",
         "request_id": "6926c04740ead",
         "pid": 3585310
+    },
+    {
+        "timestamp": "2025-12-10 10:24:58",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "69393c6a43c2d",
+        "pid": 1616150
+    },
+    {
+        "timestamp": "2025-12-10 10:25:00",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "weby\/API\/src\/download.php",
+        "request_id": "69393c6c684b7",
+        "pid": 1616150
+    },
+    {
+        "timestamp": "2025-12-10 10:25:00",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "69393c6c6fe3d",
+        "pid": 1616150
+    },
+    {
+        "timestamp": "2025-12-10 10:25:14",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "69393c7ab5241",
+        "pid": 1616150
+    },
+    {
+        "timestamp": "2025-12-10 10:25:47",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "weby\/API\/src\/download.php",
+        "request_id": "69393c9bc66c7",
+        "pid": 1616198
+    },
+    {
+        "timestamp": "2025-12-10 10:25:47",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "69393c9bce17b",
+        "pid": 1616198
+    },
+    {
+        "timestamp": "2025-12-10 10:26:02",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "weby\/API\/src\/import_data.php",
+        "request_id": "69393caa556b9",
+        "pid": 1616198
     }
 ]

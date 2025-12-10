@@ -1,12 +1,12 @@
 <?php
-include_once '../config/db.php';
+include_once '../config/config.php';
 include_once '../library/functions.php';
 include_once './notifs.php';
 include_once './sendNotif.php';
 ?>
 
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -24,6 +24,23 @@ include_once './sendNotif.php';
       <?php 
         sidebar();
       ?>
+
+      <div id="g_id_onload"
+     data-client_id="731126819470-jm53vv15n3nlnjpllpamji6obeqae7v1.apps.googleusercontent.com"
+     data-context="signin"
+     data-ux_mode="popup"
+     data-login_uri="https://vlasato23.sps-prosek.cz/weby/API/googleAuth.php"
+     data-auto_prompt="false">
+</div>
+
+<div class="g_id_signin"
+     data-type="standard"
+     data-shape="pill"
+     data-theme="outline"
+     data-text="signin_with"
+     data-size="large"
+     data-logo_alignment="left">
+</div>
 
       <div id="refresh"><a href="../index.php"><p>Refresh</p></a></div>
 

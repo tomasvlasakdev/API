@@ -2,7 +2,7 @@
 // Dashboard URL:
 // https://vlasato23.sps-prosek.cz/weby/API/public/interface.php
 
-include_once "../config/db.php";
+include_once "../config/config.php";
     
 function sendNotification($userId, $message){
     global $db;

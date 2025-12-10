@@ -40,6 +40,8 @@ return ' ';
 function sidebar() {
   $current = basename($_SERVER['PHP_SELF']); 
   ?>
+
+  
   <section class="sidebar">
     <div class="sidebar-header">
       <h2>London Housing Data</h2>

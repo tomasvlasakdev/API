@@ -1,3 +1,7 @@
+<?php
+include_once '../config/config.php';
+?>
+
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   window.OneSignalDeferred = window.OneSignalDeferred || [];

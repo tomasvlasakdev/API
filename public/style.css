@@ -31,7 +31,6 @@ body {
   flex-direction: column;
 }
 
-
 /* === SIDEBAR === */
 .sidebar {
   position: fixed;
@@ -142,8 +141,7 @@ body {
   color: #fff;
 }
 
-
-#refresh{
+#refresh {
   width: 100%;
   justify-content: center;
   display: flex;
@@ -157,8 +155,6 @@ body {
   border-radius: 8px;
   background: #1e1e2f;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
-  
-
 }
 
 #refresh a:hover {
@@ -183,9 +179,6 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-
-
-
 
 /* === CARD DESIGN === */
 .card {
@@ -232,7 +225,6 @@ body {
   left: 60%;
   transform: translateX(-50%);
 }
-
 
 .card::before {
   content: "";
@@ -325,7 +317,7 @@ select {
   list-style: none;
   padding: 0;
   margin: 0;
-  
+
   min-height: 510px;
 }
 
@@ -388,4 +380,147 @@ select {
   margin-left: 1rem;
   font-size: 0.9rem;
   color: #aaa;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.login-box {
+  background: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  max-width: 400px;
+  width: 90%;
+}
+
+.login-box h1 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.login-box p {
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.g_id_signin {
+  display: flex;
+  justify-content: center;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.user-table th,
+.user-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #1b2a6dff;
+}
+
+.user-table th {
+  background: #1b2a6dff;
+  color: white;
+  font-weight: 600;
+}
+
+.user-table tr:hover {
+  background: #467fb9ff;
+}
+
+.user-table tr {
+  background: #225e9aff;
+}
+
+.role-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.role-admin {
+  background: #ff6b6b;
+  color: white;
+}
+
+.role-developer {
+  background: #4ecdc4;
+  color: white;
+}
+
+.role-visitor {
+  background: #95a5a6;
+  color: white;
+}
+
+.status-blocked {
+  color: #e74c3c;
+  font-weight: 600;
+}
+
+.status-active {
+  color: #27ae60;
+  font-weight: 600;
+}
+
+.btn {
+  padding: 6px 12px;
+  margin: 2px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.btn-primary {
+  background: #667eea;
+  color: white;
+}
+
+.btn-warning {
+  background: #f39c12;
+  color: white;
+}
+
+.btn-success {
+  background: #27ae60;
+  color: white;
+}
+
+.btn-danger {
+  background: #e74c3c;
+  color: white;
+}
+
+.alert {
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 4px;
+}
+
+.alert-success {
+  background: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+.alert-error {
+  background: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
 }

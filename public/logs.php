@@ -1,5 +1,8 @@
 <?php
 include_once '../library/functions.php';
+include_once 'notifs.php';
+
+requireLogin();
 
 $logs = loadLogs("../logs/logging.json");
 
@@ -64,7 +67,7 @@ $logs_page = paginate_logs($logs, $current_page, $logs_per_page);
           } else {
             echo '<li>No logs for entered filter.</li>';
           }
-          ; ?>
+          ?>
         </ul>
 
         <?= render_pagination($current_page, $total_pages) ?>

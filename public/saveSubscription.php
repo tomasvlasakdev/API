@@ -1,10 +1,9 @@
 <?php
-include_once "../config/config.php";
+include_once "../config/db.php";
 
 function saveSubscription($subId, $isSubscribed, $userId = 1)
 {
     global $db;
-    // 
     $stmt = $db->prepare("SELECT subId FROM pushNotifs WHERE subId = :subId");
     $stmt->execute([":subId" => $subId]);
     $result = $stmt->fetch();

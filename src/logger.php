@@ -1,37 +1,23 @@
 <?php
 
-// Local time
 date_default_timezone_set('Europe/Prague');
 
 function log_message($filePath, $level, $message) {
-    $caller = debug_backtrace()[1];
+    $trace = debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS, 2);
+    $callerFile = $trace[1]['file'] ?? 'unknown';
+
     $log_data = [
-        'timestamp' => date('Y-m-d H:i:s'),
-        'level' => $level,
-        'message' => $message,
-        'source_file' => str_replace($_SERVER['DOCUMENT_ROOT'], '', $caller['file']),
-        'request_id' => uniqid(),
-        'pid' => getmypid()
+        'timestamp'   => date('Y-m-d H:i:s'),
+        'level'       => $level,
+        'message'     => $message,
+        'source_file' => basename($callerFile),
+        'request_id'  => uniqid('', true),
+        'pid'         => getmypid()
     ];
 
-    // Checks if file exists and is not empty
-    if (file_exists($filePath) && filesize($filePath) > 0) {
-        // Read current content and decodes json
-        $current_content = file_get_contents($filePath);
-        $logs = json_decode($current_content, true);
+    $line = json_encode($log_data, JSON_UNESCAPED_UNICODE) . PHP_EOL;
 
-        if (!is_array($logs)) {
-            $logs = [];
-        }
-    } else {
-        $logs = [];
-    }
-    
-    $logs[] = $log_data;
-
-    $json_entry = json_encode($logs, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
-    
-    file_put_contents($filePath, $json_entry, LOCK_EX);
+    file_put_contents($filePath, $line, FILE_APPEND | LOCK_EX);
 }
 
 function log_info($filePath, $message) {
@@ -49,4 +35,3 @@ function log_download($filePath, $message) {
 function log_error($filePath, $message) {
     log_message($filePath, 'ERROR', $message);
 }
-

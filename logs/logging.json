@@ -2023,4 +2023,114 @@
         "request_id": "69393caa556b9",
         "pid": 1616198
     }
-]
+]{"timestamp":"2026-01-02 15:55:21","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957dc593e2088.05818772","pid":2989118}
+{"timestamp":"2026-01-02 15:57:43","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957dce7436889.19364153","pid":2989265}
+{"timestamp":"2026-01-02 15:57:47","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957dceb8f07f9.30167325","pid":2989265}
+{"timestamp":"2026-01-02 15:58:55","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957dd2fc27739.41007496","pid":2989298}
+{"timestamp":"2026-01-02 15:58:58","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957dd32b5a653.01026813","pid":2989298}
+{"timestamp":"2026-01-02 16:00:26","level":"ERROR","message":"User management error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role' in 'field list'","source_file":"users.php","request_id":"6957dd8a575b02.65147581","pid":2992303}
+{"timestamp":"2026-01-02 16:00:31","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957dd8fe33482.91150826","pid":2992303}
+{"timestamp":"2026-01-02 16:00:38","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957dd96023261.78374986","pid":2992303}
+{"timestamp":"2026-01-02 16:02:08","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957ddf09cab82.15674376","pid":2992437}
+{"timestamp":"2026-01-02 16:02:12","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957ddf4ec58a5.49800487","pid":2992437}
+{"timestamp":"2026-01-02 16:23:25","level":"ERROR","message":"User management error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role' in 'field list'","source_file":"users.php","request_id":"6957e2ed2f6354.73150902","pid":2995979}
+{"timestamp":"2026-01-02 16:23:36","level":"ERROR","message":"User management error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role' in 'field list'","source_file":"users.php","request_id":"6957e2f830dd99.86621988","pid":2995985}
+{"timestamp":"2026-01-02 16:23:46","level":"ERROR","message":"User management error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role' in 'field list'","source_file":"users.php","request_id":"6957e302254a31.01510282","pid":2995985}
+{"timestamp":"2026-01-02 16:24:57","level":"ERROR","message":"User management error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role' in 'field list'","source_file":"users.php","request_id":"6957e349193ee9.97731967","pid":2995995}
+{"timestamp":"2026-01-02 16:25:02","level":"ERROR","message":"User management error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role' in 'field list'","source_file":"users.php","request_id":"6957e34eda1646.52426282","pid":2995995}
+{"timestamp":"2026-01-02 16:25:05","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e3513cb760.87084537","pid":2995995}
+{"timestamp":"2026-01-02 16:25:08","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e354505ba0.71281530","pid":2995995}
+{"timestamp":"2026-01-02 16:26:53","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e3bd49a598.50443890","pid":2996024}
+{"timestamp":"2026-01-02 16:26:59","level":"INFO","message":"OAuth: New user registered: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"6957e3c3d7a557.77150796","pid":2996024}
+{"timestamp":"2026-01-02 16:27:07","level":"INFO","message":"User logged out: vlasato23@sps-prosek.cz","source_file":"logout.php","request_id":"6957e3cb212e72.58804441","pid":2996024}
+{"timestamp":"2026-01-02 16:27:10","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"6957e3ce5b98c5.55570158","pid":2996024}
+{"timestamp":"2026-01-02 16:27:18","level":"INFO","message":"User logged out: vlasato23@sps-prosek.cz","source_file":"logout.php","request_id":"6957e3d625a603.56693165","pid":2996024}
+{"timestamp":"2026-01-02 16:27:21","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e3d9236879.40108668","pid":2996024}
+{"timestamp":"2026-01-02 16:30:57","level":"INFO","message":"Admin blocked user: User ID 2","source_file":"users.php","request_id":"6957e4b12d2c32.63331283","pid":2997301}
+{"timestamp":"2026-01-02 16:31:02","level":"INFO","message":"Admin unblocked user: User ID 2","source_file":"users.php","request_id":"6957e4b6e9d7e3.87283580","pid":2997301}
+{"timestamp":"2026-01-02 16:31:12","level":"INFO","message":"Admin changed user role: User ID 2 to developer","source_file":"users.php","request_id":"6957e4c056e9a1.12569168","pid":2997301}
+{"timestamp":"2026-01-02 16:31:15","level":"INFO","message":"Admin changed user role: User ID 2 to visitor","source_file":"users.php","request_id":"6957e4c3d60929.25842530","pid":2997301}
+{"timestamp":"2026-01-02 16:31:19","level":"INFO","message":"Admin deleted user: User ID 2","source_file":"users.php","request_id":"6957e4c725c4d1.80757781","pid":2997301}
+{"timestamp":"2026-01-02 16:31:23","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e4cbc75d98.24090928","pid":2997301}
+{"timestamp":"2026-01-02 16:31:27","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e4cf0d4198.65073603","pid":2997301}
+{"timestamp":"2026-01-02 16:31:31","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e4d39fd806.00689727","pid":2997301}
+{"timestamp":"2026-01-02 16:31:34","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e4d6ccdaf2.91276866","pid":2997301}
+{"timestamp":"2026-01-02 16:32:00","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e4f0e6a001.72115814","pid":2997381}
+{"timestamp":"2026-01-02 16:32:04","level":"INFO","message":"OAuth: New user registered: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"6957e4f4079829.75962631","pid":2997381}
+{"timestamp":"2026-01-02 16:32:13","level":"INFO","message":"User logged out: vlasato23@sps-prosek.cz","source_file":"logout.php","request_id":"6957e4fd278761.60581737","pid":2999368}
+{"timestamp":"2026-01-02 16:32:16","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e500b18323.62880003","pid":2999368}
+{"timestamp":"2026-01-02 16:32:27","level":"INFO","message":"Admin changed user role: User ID 3 to developer","source_file":"users.php","request_id":"6957e50b4373e8.55501513","pid":2999368}
+{"timestamp":"2026-01-02 16:32:32","level":"INFO","message":"Admin blocked user: User ID 3","source_file":"users.php","request_id":"6957e510717734.63060352","pid":2999368}
+{"timestamp":"2026-01-02 16:32:35","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e5139c0363.69620965","pid":2999368}
+{"timestamp":"2026-01-02 16:32:38","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e5166b0936.67163678","pid":2999368}
+{"timestamp":"2026-01-02 16:32:45","level":"INFO","message":"Admin unblocked user: User ID 3","source_file":"users.php","request_id":"6957e51d07e426.75117160","pid":2999368}
+{"timestamp":"2026-01-02 16:32:49","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e5217463a2.85946198","pid":2999368}
+{"timestamp":"2026-01-02 16:32:53","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"6957e5252432f7.27193620","pid":2999368}
+{"timestamp":"2026-01-02 16:33:10","level":"INFO","message":"User logged out: vlasato23@sps-prosek.cz","source_file":"logout.php","request_id":"6957e536af42f0.30642894","pid":2999452}
+{"timestamp":"2026-01-02 16:33:13","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e539ca8f89.85887565","pid":2999452}
+{"timestamp":"2026-01-02 16:33:42","level":"INFO","message":"Admin changed user role: User ID 3 to visitor","source_file":"users.php","request_id":"6957e5566f61a4.60316939","pid":2999480}
+{"timestamp":"2026-01-02 16:34:11","level":"INFO","message":"Admin changed user role: User ID 3 to visitor","source_file":"users.php","request_id":"6957e5738ad923.52793195","pid":2999486}
+{"timestamp":"2026-01-02 16:34:17","level":"INFO","message":"Admin changed user role: User ID 3 to visitor","source_file":"users.php","request_id":"6957e5791c8638.98893576","pid":2999486}
+{"timestamp":"2026-01-02 16:34:52","level":"INFO","message":"Admin changed user role: User ID 3 to visitor","source_file":"users.php","request_id":"6957e59c3f2cf1.14489013","pid":2999494}
+{"timestamp":"2026-01-02 16:35:23","level":"INFO","message":"Admin changed user role: User ID 3 to visitor","source_file":"users.php","request_id":"6957e5bb2af695.37766077","pid":2999496}
+{"timestamp":"2026-01-02 16:35:34","level":"INFO","message":"Admin changed user role: User ID 3 to visitor","source_file":"users.php","request_id":"6957e5c6088ee2.72919253","pid":2999496}
+{"timestamp":"2026-01-02 16:35:37","level":"INFO","message":"Admin changed user role: User ID 3 to visitor","source_file":"users.php","request_id":"6957e5c9deb102.48779350","pid":2999496}
+{"timestamp":"2026-01-02 16:35:42","level":"INFO","message":"Admin changed user role: User ID 3 to visitor","source_file":"users.php","request_id":"6957e5ceb98d37.92810891","pid":2999496}
+{"timestamp":"2026-01-02 16:35:44","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e5d06dfac6.97548609","pid":2999496}
+{"timestamp":"2026-01-02 16:35:47","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e5d39dc957.93047280","pid":2999496}
+{"timestamp":"2026-01-02 16:40:17","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e6e17d5ea7.73947354","pid":2999569}
+{"timestamp":"2026-01-02 16:40:20","level":"INFO","message":"OAuth: New user registered: vlasaktomas.cz@gmail.com","source_file":"oauth_handler.php","request_id":"6957e6e49ee0a7.26380447","pid":2999569}
+{"timestamp":"2026-01-02 16:40:43","level":"INFO","message":"User logged out: vlasaktomas.cz@gmail.com","source_file":"logout.php","request_id":"6957e6fb68a3e6.35164636","pid":2999573}
+{"timestamp":"2026-01-02 16:40:48","level":"INFO","message":"OAuth: User logged in: vlasaktomas.cz@gmail.com","source_file":"oauth_handler.php","request_id":"6957e700577666.62173300","pid":2999573}
+{"timestamp":"2026-01-02 16:41:08","level":"INFO","message":"Admin changed user role: User ID 1 to admin","source_file":"users.php","request_id":"6957e7141429b1.92770498","pid":2999588}
+{"timestamp":"2026-01-02 16:41:17","level":"INFO","message":"Admin changed user role: User ID 1 to developer","source_file":"users.php","request_id":"6957e71db9cfc7.35975883","pid":2999588}
+{"timestamp":"2026-01-02 16:41:22","level":"INFO","message":"Admin changed user role: User ID 1 to visitor","source_file":"users.php","request_id":"6957e7224025b3.58583298","pid":2999588}
+{"timestamp":"2026-01-02 16:41:59","level":"INFO","message":"User logged out: vlasaktomas.cz@gmail.com","source_file":"logout.php","request_id":"6957e7473595f2.06519568","pid":2999593}
+{"timestamp":"2026-01-02 16:43:07","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e78b2a43f5.08763487","pid":2999614}
+{"timestamp":"2026-01-02 16:43:11","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e78f7c0317.70906810","pid":2999614}
+{"timestamp":"2026-01-02 16:43:33","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e7a5bd2d54.21679259","pid":2999621}
+{"timestamp":"2026-01-02 16:43:40","level":"INFO","message":"Admin blocked user: User ID 3","source_file":"users.php","request_id":"6957e7ac809303.82215889","pid":2999621}
+{"timestamp":"2026-01-02 16:43:49","level":"INFO","message":"Admin changed user role: User ID 3 to developer","source_file":"users.php","request_id":"6957e7b5104a89.48044266","pid":2999621}
+{"timestamp":"2026-01-02 16:44:00","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e7c07f4076.35771938","pid":2999628}
+{"timestamp":"2026-01-02 16:51:27","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"6957e97f8a30c5.16721496","pid":3004333}
+{"timestamp":"2026-01-02 16:53:20","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"6957e9f0ab55a8.86956755","pid":3004568}
+{"timestamp":"2026-01-04 19:56:42","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"695ab7ea15d2c6.39977544","pid":3793057}
+{"timestamp":"2026-01-04 19:58:34","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"695ab85a920f16.39957321","pid":3793240}
+{"timestamp":"2026-01-04 19:58:39","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"695ab85f193599.97209532","pid":3793240}
+{"timestamp":"2026-01-04 20:00:48","level":"INFO","message":"User logged out: tomhair2008@gmail.com","source_file":"logout.php","request_id":"695ab8e044e563.09858416","pid":3796408}
+{"timestamp":"2026-01-04 20:00:51","level":"INFO","message":"OAuth: User logged in: tomhair2008@gmail.com","source_file":"oauth_handler.php","request_id":"695ab8e36fe4b6.05362829","pid":3796408}
+{"timestamp":"2026-01-07 10:03:33","level":"ERROR","message":"OAuth: Blocked user attempted login: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"695e2165ce9038.08873972","pid":437930}
+{"timestamp":"2026-01-07 10:03:39","level":"ERROR","message":"OAuth: Blocked user attempted login: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"695e216be1b517.39198173","pid":437930}
+{"timestamp":"2026-01-07 10:05:22","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"695e21d266f152.72483848","pid":438084}
+{"timestamp":"2026-01-07 10:05:51","level":"INFO","message":"User logged out: vlasato23@sps-prosek.cz","source_file":"logout.php","request_id":"695e21ef04c9a7.08431544","pid":438093}
+{"timestamp":"2026-01-07 10:05:54","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"695e21f20f3335.25385932","pid":438093}
+{"timestamp":"2026-01-07 10:17:45","level":"INFO","message":"User logged out: vlasato23@sps-prosek.cz","source_file":"logout.php","request_id":"695e24b94bbe32.01633994","pid":448174}
+{"timestamp":"2026-01-07 10:39:39","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"695e29db7fd1c2.97871808","pid":452387}
+{"timestamp":"2026-01-07 10:39:55","level":"INFO","message":"Admin changed user role: User ID 1 to admin","source_file":"users.php","request_id":"695e29ebb33f06.40084294","pid":452409}
+{"timestamp":"2026-01-07 10:40:14","level":"INFO","message":"Admin unblocked user: User ID 4","source_file":"users.php","request_id":"695e29fe78ef17.97500154","pid":452415}
+{"timestamp":"2026-01-07 10:40:16","level":"INFO","message":"Admin blocked user: User ID 4","source_file":"users.php","request_id":"695e2a0071f810.30313991","pid":452415}
+{"timestamp":"2026-01-07 10:40:16","level":"INFO","message":"Admin unblocked user: User ID 4","source_file":"users.php","request_id":"695e2a00e13a65.73549818","pid":452415}
+{"timestamp":"2026-01-07 10:47:55","level":"INFO","message":"OAuth: New user registered: premysl.vaculik@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"695e2bcbce70f3.27958283","pid":453928}
+{"timestamp":"2026-01-07 10:48:22","level":"INFO","message":"Admin unblocked user: User ID 4","source_file":"users.php","request_id":"695e2be682ff92.30870954","pid":455998}
+{"timestamp":"2026-01-07 10:48:30","level":"INFO","message":"Admin changed user role: User ID 5 to developer","source_file":"users.php","request_id":"695e2bee9d2964.14983885","pid":455998}
+{"timestamp":"2026-01-07 10:48:35","level":"INFO","message":"Admin changed user role: User ID 5 to developer","source_file":"users.php","request_id":"695e2bf37ff4e4.91947096","pid":455998}
+{"timestamp":"2026-01-07 10:48:55","level":"INFO","message":"User logged out: premysl.vaculik@sps-prosek.cz","source_file":"logout.php","request_id":"695e2c075ac5e8.43159971","pid":456009}
+{"timestamp":"2026-01-07 10:48:59","level":"INFO","message":"OAuth: User logged in: premysl.vaculik@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"695e2c0ba56bd3.86820877","pid":456009}
+{"timestamp":"2026-01-28 11:48:04","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"6979e964d466e2.46489844","pid":277695}
+{"timestamp":"2026-01-29 10:15:14","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"697b25222b4d85.99355910","pid":277695}
+{"timestamp":"2026-01-29 10:18:46","level":"INFO","message":"User logged out: vlasato23@sps-prosek.cz","source_file":"logout.php","request_id":"697b25f69fb762.43720959","pid":277695}
+{"timestamp":"2026-01-29 10:20:42","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"697b266a756826.46671216","pid":277695}
+{"timestamp":"2026-02-02 14:20:12","level":"INFO","message":"User logged out: vlasato23@sps-prosek.cz","source_file":"logout.php","request_id":"6980a48c6c9b06.21819700","pid":277695}
+{"timestamp":"2026-02-02 14:37:05","level":"DOWNLOAD","message":"Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)","source_file":"download.php","request_id":"6980a8819c7079.74801945","pid":277695}
+{"timestamp":"2026-02-02 14:37:05","level":"INFO","message":"Tabulka DATA_API_HOUSING byla vyprázdněna.","source_file":"import_data.php","request_id":"6980a881b04d04.18606109","pid":277695}
+{"timestamp":"2026-02-02 14:37:07","level":"DOWNLOAD","message":"Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)","source_file":"download.php","request_id":"6980a883aec250.83816120","pid":277694}
+{"timestamp":"2026-02-02 14:37:07","level":"INFO","message":"Tabulka DATA_API_HOUSING byla vyprázdněna.","source_file":"import_data.php","request_id":"6980a883b3b939.13813839","pid":277694}
+{"timestamp":"2026-02-02 14:37:20","level":"IMPORT","message":"Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.","source_file":"import_data.php","request_id":"6980a8906afee9.69554862","pid":277695}
+{"timestamp":"2026-02-02 14:37:22","level":"IMPORT","message":"Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.","source_file":"import_data.php","request_id":"6980a8922181a4.66118457","pid":277694}
+{"timestamp":"2026-02-02 14:37:46","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"6980a8aa2a91e4.90457507","pid":277694}
+{"timestamp":"2026-02-02 14:42:56","level":"INFO","message":"User logged out: vlasato23@sps-prosek.cz","source_file":"logout.php","request_id":"6980a9e093bd20.54147474","pid":277694}
+{"timestamp":"2026-02-02 14:47:26","level":"INFO","message":"OAuth: User logged in: vlasato23@sps-prosek.cz","source_file":"oauth_handler.php","request_id":"6980aaee0915c0.80572414","pid":277695}
+{"timestamp":"2026-02-02 14:47:37","level":"DOWNLOAD","message":"Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)","source_file":"download.php","request_id":"6980aaf9d689b8.14407792","pid":277694}
+{"timestamp":"2026-02-02 14:47:37","level":"INFO","message":"Tabulka DATA_API_HOUSING byla vyprázdněna.","source_file":"import_data.php","request_id":"6980aaf9de7358.25027641","pid":277694}
+{"timestamp":"2026-02-02 14:47:51","level":"IMPORT","message":"Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.","source_file":"import_data.php","request_id":"6980ab07d9f1a2.37958942","pid":277694}
+{"timestamp":"2026-02-02 14:48:16","level":"INFO","message":"Admin blocked user: User ID 1","source_file":"users.php","request_id":"6980ab20b076e1.14132948","pid":457477}

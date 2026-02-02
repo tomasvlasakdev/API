@@ -1,4 +1,6 @@
 <?php
+include_once __DIR__ . '/../library/sql_commands.php';
+
 /*
  * Dokumentace k endpointu /info.php:
  * https://app.gitbook.com/o/CJz4qlCVwDL2Hn3AuhmU/s/r2ekOEUU8ZTbgSwKjutn/
@@ -49,46 +51,16 @@ if (!$db_ok) {
     try {
         $db = $config['db'];
 
-        // 1. Total records
-        $stmt = $db->query("SELECT COUNT(*) AS cnt FROM DATA_API_HOUSING");
-        $total_records = $stmt->fetchColumn() ?: 0;
 
-        // 2. Median average
-        $stmt = $db->query("SELECT AVG(value) AS avg FROM DATA_API_HOUSING WHERE measure = 'median'");
-        $avg_median = round($stmt->fetchColumn() ?: 0);
+$response['statistics'] = [
+    'total_records'       => sql_commands2(1, $config['db']),
+    'avg_median_price'    => sql_commands2(2, $config['db']),
+    'avg_mean_price'      => sql_commands2(3, $config['db']),
+    'total_sales_count'   => sql_commands2(4, $config['db']),
+    'table_size_mb'       => sql_commands2(5, $config['db']),
+    'latest_import'       => sql_commands2(6, $config['db']),
+];
 
-        // 3. Mean average
-        $stmt = $db->query("SELECT AVG(value) AS avg FROM DATA_API_HOUSING WHERE measure = 'mean'");
-        $avg_mean = round($stmt->fetchColumn() ?: 0);
-
-        // 4. Total sales
-        $stmt = $db->query("SELECT COUNT(*) AS cnt FROM DATA_API_HOUSING WHERE measure = 'sales'");
-        $total_sales = $stmt->fetchColumn() ?: 0;
-
-        // 5. DB size (MB)
-        $stmt = $db->query("
-            SELECT ROUND((data_length + index_length) / 1024 / 1024, 2) AS size_mb
-            FROM information_schema.tables 
-            WHERE table_schema = DATABASE() 
-            AND table_name = 'DATA_API_HOUSING'
-        ");
-        $table_size_mb = $stmt->fetchColumn() ?: 'n/a';
-
-        // 6. Date of last import
-        $stmt = $db->query("SELECT MAX(imported_at) FROM DATA_API_HOUSING");
-        $latest = $stmt->fetchColumn();
-        $latest_import = $latest 
-            ? (new DateTime($latest))->format('j. n. Y H:i:s')
-            : 'žádný záznam';
-
-        $response['statistics'] = [
-            'total_records'       => $total_records,
-            'avg_median_price'    => $avg_median,
-            'avg_mean_price'      => $avg_mean,
-            'total_sales_count'   => $total_sales,
-            'table_size_mb'       => $table_size_mb,
-            'latest_import'       => $latest_import,
-        ];
     } catch (Exception $e) {
         $response['statistics'] = [
             'error' => 'Nepodařilo se načíst statistiky: ' . $e->getMessage()

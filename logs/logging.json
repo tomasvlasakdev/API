@@ -2134,3 +2134,6 @@
 {"timestamp":"2026-02-02 14:47:37","level":"INFO","message":"Tabulka DATA_API_HOUSING byla vyprázdněna.","source_file":"import_data.php","request_id":"6980aaf9de7358.25027641","pid":277694}
 {"timestamp":"2026-02-02 14:47:51","level":"IMPORT","message":"Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.","source_file":"import_data.php","request_id":"6980ab07d9f1a2.37958942","pid":277694}
 {"timestamp":"2026-02-02 14:48:16","level":"INFO","message":"Admin blocked user: User ID 1","source_file":"users.php","request_id":"6980ab20b076e1.14132948","pid":457477}
+{"timestamp":"2026-02-02 15:56:45","level":"DOWNLOAD","message":"Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)","source_file":"download.php","request_id":"6980bb2d5e38c9.66645437","pid":457477}
+{"timestamp":"2026-02-02 15:56:45","level":"INFO","message":"Tabulka DATA_API_HOUSING byla vyprázdněna.","source_file":"import_data.php","request_id":"6980bb2d6549e6.16753776","pid":457477}
+{"timestamp":"2026-02-02 15:56:59","level":"IMPORT","message":"Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.","source_file":"import_data.php","request_id":"6980bb3b63f236.54736343","pid":457477}

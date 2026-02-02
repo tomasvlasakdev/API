@@ -51,4 +51,44 @@ function sql_commands($type) {
   }
 }
 
+
+// SQL Commands
+function sql_commands2($type, PDO $db) {
+    switch ($type) {
+        case 1: // Total records
+            $stmt = $db->query("SELECT COUNT(*) FROM DATA_API_HOUSING");
+            return (int)$stmt->fetchColumn();
+
+        case 2: // Median average
+            $stmt = $db->query("SELECT AVG(value) FROM DATA_API_HOUSING WHERE measure = 'median'");
+            return round((float)$stmt->fetchColumn());
+
+        case 3: // Mean average
+            $stmt = $db->query("SELECT AVG(value) FROM DATA_API_HOUSING WHERE measure = 'mean'");
+            return round((float)$stmt->fetchColumn());
+
+        case 4: // Total sales
+            $stmt = $db->query("SELECT COUNT(*) FROM DATA_API_HOUSING WHERE measure = 'sales'");
+            return (int)$stmt->fetchColumn();
+
+        case 5: // Table size in MB
+            $stmt = $db->query("
+                SELECT ROUND((data_length + index_length) / 1024 / 1024, 2) AS size_mb
+                FROM information_schema.tables
+                WHERE table_schema = DATABASE()
+                AND table_name = 'DATA_API_HOUSING'
+            ");
+            return $stmt->fetchColumn() ?: 'n/a';
+
+        case 6: // Latest import
+            $stmt = $db->query("SELECT MAX(imported_at) FROM DATA_API_HOUSING");
+            $latest = $stmt->fetchColumn();
+            return $latest ? (new DateTime($latest))->format('j. n. Y H:i:s') : 'žádný záznam';
+
+        default:
+            throw new Exception("Neznámý typ SQL příkazu: $type");
+    };
+};
+
+
 ?>

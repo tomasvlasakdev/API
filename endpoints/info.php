@@ -13,6 +13,7 @@ $config = require __DIR__ . '../../config/config.php';
 $db_ok = false;
 $db_error = null;
 
+// Otestuje připojení k databázi
 if (isset($config['db']) && $config['db'] instanceof PDO) {
     try {
         $config['db']->query('SELECT 1');

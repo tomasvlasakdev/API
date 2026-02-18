@@ -15,9 +15,20 @@ function log_message($filePath, $level, $message) {
         'pid'         => getmypid()
     ];
 
-    $line = json_encode($log_data, JSON_UNESCAPED_UNICODE) . PHP_EOL;
+    $logs = [];
+    if (file_exists($filePath)) {
+        $content = file_get_contents($filePath);
+        if (!empty(trim($content))) {
+            $logs = json_decode($content, true) ?? [];
+            if (!is_array($logs)) {
+                $logs = [];
+            }
+        }
+    }
 
-    file_put_contents($filePath, $line, FILE_APPEND | LOCK_EX);
+    $logs[] = $log_data;
+
+    file_put_contents($filePath, json_encode($logs, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
 }
 
 function log_info($filePath, $message) {

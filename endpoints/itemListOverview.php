@@ -1,9 +1,9 @@
 <?php
-$protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
-$host = $_SERVER['HTTP_HOST'];
-$script_name = $_SERVER['SCRIPT_NAME'];                      
-$dir = dirname($script_name);                               
-$base_api_url = $protocol . '://' . $host . $dir . '/itemList.php';
+include_once __DIR__ . '/../library/api_helpers.php';
+include_once __DIR__ . '/../library/logging.php';
+
+$base_api_url = build_base_api_url('itemList.php');
+api_log_info('Opened itemListOverview page');
 ?>
 
 

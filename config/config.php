@@ -4,7 +4,7 @@ session_start();
 if (!defined('DB_NAME')) {
     define('DB_NAME', 'vlasato23');
     define('DB_USER', 'vlasato23');
-    define('DB_PASSWORD', 'heslo');
+    define('DB_PASSWORD', 'LpS4fmF7');
     define('DB_HOST', '127.0.0.1');
 
     define('LOG_FILE', __DIR__ . '/../logs/logging.json');

@@ -78,5 +78,3213 @@
         "source_file": "import_data.php",
         "request_id": "698dbafd8e4160.57630378",
         "pid": 641930
+    },
+    {
+        "timestamp": "2026-02-21 13:32:24",
+        "level": "ERROR",
+        "message": "OAuth: Blocked user attempted login: tomhair2008@gmail.com",
+        "source_file": "oauth_handler.php",
+        "request_id": "6999a5d897b421.28426471",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-21 13:32:34",
+        "level": "ERROR",
+        "message": "OAuth: Blocked user attempted login: tomhair2008@gmail.com",
+        "source_file": "oauth_handler.php",
+        "request_id": "6999a5e27b5307.60444499",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-21 13:39:24",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "6999a77c541ad0.90374797",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-21 13:39:25",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "6999a77d6f0de0.21089948",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-21 13:39:25",
+        "level": "INFO",
+        "message": "Opened itemListOverview page",
+        "source_file": "logging.php",
+        "request_id": "6999a77debe3c9.69717499",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-21 13:39:26",
+        "level": "INFO",
+        "message": "Opened itemListOverview page",
+        "source_file": "logging.php",
+        "request_id": "6999a77e78eee6.72981612",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-21 13:39:27",
+        "level": "INFO",
+        "message": "Opened itemListOverview page",
+        "source_file": "logging.php",
+        "request_id": "6999a77f523791.69869917",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-21 13:39:28",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "6999a780ea9556.72272401",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-21 13:39:48",
+        "level": "INFO",
+        "message": "Served 10 items (page 2, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "6999a7942aa388.86577229",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-21 13:43:35",
+        "level": "INFO",
+        "message": "Served 50 items (page 1, per_page 50)",
+        "source_file": "logging.php",
+        "request_id": "6999a877297286.95312486",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-21 13:43:41",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "6999a87d48d2f1.48316923",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-21 13:43:47",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "6999a8833374d9.09018012",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-21 13:43:51",
+        "level": "INFO",
+        "message": "Served 12 items (page 1, per_page 12)",
+        "source_file": "logging.php",
+        "request_id": "6999a88747e149.54423335",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-21 13:43:54",
+        "level": "INFO",
+        "message": "Served 2 items (page 1, per_page 2)",
+        "source_file": "logging.php",
+        "request_id": "6999a88ac61127.25638917",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-21 14:29:41",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "6999b3457c8982.75870398",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-21 14:40:08",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "6999b5b80f23c8.58539761",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:23:11",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69a010ff171009.12507553",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:24:02",
+        "level": "INFO",
+        "message": "Opened itemListOverview page",
+        "source_file": "logging.php",
+        "request_id": "69a0113276af38.27001930",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:24:04",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69a011347c1d92.98819620",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:33:17",
+        "level": "INFO",
+        "message": "Opened itemListOverview page",
+        "source_file": "logging.php",
+        "request_id": "69a0135d6dcb80.45154689",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:33:18",
+        "level": "INFO",
+        "message": "Opened itemListOverview page",
+        "source_file": "logging.php",
+        "request_id": "69a0135e34bb68.93314889",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:33:20",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a0136020b8c2.60817714",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:34:05",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a0138d2f3531.10813326",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:34:05",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a0138deb7d85.49187126",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:34:42",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a013b2a2aa21.21922362",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:34:43",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a013b3b82ba0.33611184",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:34:44",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a013b44d14b0.25410973",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:34:54",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a013bec517e5.93467924",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:34:55",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a013bf942d06.66956575",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:35:33",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a013e57d6c53.68835251",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:35:34",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a013e67351b6.69635866",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:35:34",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a013e6e9b1e9.53438864",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:36:07",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a01407de8634.85663398",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:36:08",
+        "level": "ERROR",
+        "message": "Database unavailable: unknown",
+        "source_file": "logging.php",
+        "request_id": "69a0140847adf9.13906261",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:38:06",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69a0147e268304.56172847",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-02-26 10:38:07",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69a0147f0172d0.64716340",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-02-26 10:38:50",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69a014aa3f9cb3.05376365",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-03-12 10:25:26",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69b28686b8ae71.67578259",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-03-12 10:25:40",
+        "level": "INFO",
+        "message": "Opened itemListOverview page",
+        "source_file": "logging.php",
+        "request_id": "69b28694397bb9.74183642",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-03-12 10:25:46",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69b2869a0faaa9.79961769",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-03-12 10:25:48",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69b2869c874442.17599456",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-03-12 11:17:10",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69b292a648bb40.48426225",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-03-12 11:20:34",
+        "level": "INFO",
+        "message": "Served 51 items (page 3, per_page 51)",
+        "source_file": "logging.php",
+        "request_id": "69b29372030144.04890416",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-03-12 11:20:49",
+        "level": "INFO",
+        "message": "Served 51 items (page 3, per_page 51)",
+        "source_file": "logging.php",
+        "request_id": "69b29381c5d2c7.35908811",
+        "pid": 724275
+    },
+    {
+        "timestamp": "2026-03-12 11:22:04",
+        "level": "INFO",
+        "message": "Served 51 items (page 3, per_page 51)",
+        "source_file": "logging.php",
+        "request_id": "69b293ccb1a793.86520623",
+        "pid": 724274
+    },
+    {
+        "timestamp": "2026-03-18 09:45:46",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69ba663ab07102.17691236",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 09:45:58",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69ba66466d0199.00559888",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 09:46:05",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69ba664d37e251.69390431",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 09:46:09",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69ba665135fca9.26367813",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 09:46:12",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69ba6654cc2da6.19155546",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 09:46:41",
+        "level": "INFO",
+        "message": "Opened itemListOverview page",
+        "source_file": "logging.php",
+        "request_id": "69ba667175e913.95522398",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 09:46:43",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69ba6673311696.05629207",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 09:46:50",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69ba667ac29830.58786989",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 09:46:59",
+        "level": "INFO",
+        "message": "Served 3 items (page 10, per_page 3)",
+        "source_file": "logging.php",
+        "request_id": "69ba668324ba51.93261442",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 09:47:01",
+        "level": "INFO",
+        "message": "Served 1 items (page 10, per_page 1)",
+        "source_file": "logging.php",
+        "request_id": "69ba6685f1d122.97629952",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 09:47:35",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10)",
+        "source_file": "logging.php",
+        "request_id": "69ba66a7975473.50656380",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 09:54:22",
+        "level": "INFO",
+        "message": "Served 3 items (page 10, per_page 3)",
+        "source_file": "logging.php",
+        "request_id": "69ba683e4541c8.89722868",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 09:58:23",
+        "level": "INFO",
+        "message": "Served 5 items (page 10, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba692fc737e9.11318769",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 09:58:24",
+        "level": "INFO",
+        "message": "Served 5 items (page 10, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6930d06e56.54736383",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 09:58:36",
+        "level": "INFO",
+        "message": "Served 5 items (page 10, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba693cf1ab29.01588441",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:00:22",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba69a6635f18.26665269",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:00:35",
+        "level": "INFO",
+        "message": "Served 5 items (page 10, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba69b3d06b70.84163536",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:00:36",
+        "level": "INFO",
+        "message": "Served 5 items (page 10, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba69b46c05b1.23251207",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:00:37",
+        "level": "INFO",
+        "message": "Served 5 items (page 10, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba69b58020c4.52893815",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:00:46",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba69be9a6a24.13355162",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:00:52",
+        "level": "INFO",
+        "message": "Served 5 items (page 10, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba69c46edad8.15637183",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:00:57",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba69c90992d5.50907043",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:01:26",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba69e6075648.53434477",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:01:37",
+        "level": "INFO",
+        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
+        "source_file": "oauth_handler.php",
+        "request_id": "69ba69f1b6fc21.82919639",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:02:55",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6a3f4a47a0.94918079",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:02:56",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6a40129088.75807326",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:04:34",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6aa20b9198.58681912",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:04:35",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6aa3696a10.27870290",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:04:36",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6aa448a8b5.39545113",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:04:36",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6aa4788605.58211642",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:04:36",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6aa49d1fb1.32698536",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:05:00",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6abc08d442.16898095",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:05:02",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6abe754776.99734605",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:05:02",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6abec5b6b3.90661723",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:07:17",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6b452b6f20.95598533",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:10:27",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6c03341930.19293407",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:10:30",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69ba6c06d69186.59876007",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:11:01",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba6c2514fbc6.90845339",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:12:09",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba6c69bb3985.47742691",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:12:28",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba6c7c53e061.01588633",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:12:28",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba6c7cea5165.96908101",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:14:08",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6ce05972a2.08138659",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:14:09",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6ce1e17f75.72909310",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:14:19",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba6cebe3e970.94908456",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:14:44",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba6d04b0a741.63206389",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:14:53",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=extended)",
+        "source_file": "logging.php",
+        "request_id": "69ba6d0d0eaef3.49554833",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:14:57",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6d1135cb37.37519837",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:20:37",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6e65612b95.32372728",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:20:38",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6e660d14f0.63658206",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:20:38",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6e66783a76.09485697",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:22:29",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6ed54e7118.37935836",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:23:12",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f00749856.09719400",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:24:21",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f4572e8e5.90006548",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:24:22",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f4661f2b7.76489417",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:24:23",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f473bcc57.65134488",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:24:24",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f480179a3.50451139",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:24:25",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f49e1b5a1.69095425",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:24:31",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f4fa16416.67231756",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:24:39",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f576bea07.02903496",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:24:39",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f57e8c750.98344327",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:24:40",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f588e9db2.98092637",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:24:40",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f58c180f6.06048789",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:06",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f7287fb12.55724585",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:07",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f734e44a2.24697840",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:08",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f741466a2.57448135",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:08",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f7448d6f1.92026419",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:11",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f774f4505.93870155",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:32",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f8c0da9d9.43194938",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:32",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f8ca986c4.47800472",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:33",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f8d4882b3.97086043",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:33",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f8d873f16.12286806",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:36",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f904d5d12.48840683",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:36",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f90cc16d6.62088218",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:37",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f916e5eb3.37124121",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:38",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f92284968.06670982",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:43",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f975310c9.43424053",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:44",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f9807c758.00839793",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:44",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f9882e324.96944949",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:44",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f98b708a7.92754324",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:44",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f98eafeb5.95065517",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:45",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f9929e6e3.58091872",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:45",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f99566133.59971545",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:46",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f9a0124c9.12980211",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:46",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f9a371d43.40345797",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:46",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6f9a660cb7.10335408",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:25:55",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fa3de6171.41778969",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:25:56",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fa45f0c38.60684718",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:04",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6facb17be4.84264173",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:07",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fafd0aa70.90586890",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:08",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb05516a2.90893647",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:08",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb0ea0e30.49380067",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:10",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb20fe697.28758453",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:10",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb2de9165.46120729",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:11",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb39bf1b7.58470189",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:12",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb40d2b45.03189192",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:12",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb43dbf46.95131116",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:12",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb460d780.00704342",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:12",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb4b4f450.41253415",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:12",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb4e32856.80774214",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:13",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb516d5d8.07882696",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:13",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fb5412970.35522854",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:25",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fc10193a6.46728533",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:25",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fc186b109.95138176",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:25",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fc1c08ab3.84262506",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:47",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fd7657800.18728890",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:47",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fd7f1ca43.35626846",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:48",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fd8461a27.74637351",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:48",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fd8785ea1.59863790",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:52",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fdc253940.24493386",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:26:52",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fdc6cf3f6.71232507",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:26:52",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba6fdca35670.00299208",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:29:48",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba708cb56247.60149920",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:29:49",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba708d96a488.50506146",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:08",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70a0841f36.92808168",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:09",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70a13ba586.70276479",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:09",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70a183e3e2.66021775",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:17",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70a928ecf1.97593920",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:17",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70a940d742.71529147",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:27",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70b311a724.35412705",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:27",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70b3856a39.13575697",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:28",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70b41425f8.50188342",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:28",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70b48da582.08948810",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:29",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70b504d684.55603291",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:29",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70b53d2ca9.64284285",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:29",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70b56c0e98.35710446",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:29",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70b59a24d6.65875632",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:29",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70b5bf3c20.20703602",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:41",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c1dbb518.61958645",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:42",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c21184d2.24492650",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:42",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c24100c7.30103677",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:43",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c318b7d0.61890535",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:43",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c383e7b0.83656125",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:43",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c3b1f595.95734013",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:44",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c42ca944.69023588",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:44",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c45a1671.25988510",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:44",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c4eaeb92.43767124",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:45",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c52b6b89.50186929",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:46",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c621e3d6.62218289",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:30:47",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c7965b68.88785496",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:30:48",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70c856b9d4.83934412",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:31:36",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba70f86b8aa2.41865701",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:32:59",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba714bb47650.88283218",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:33:00",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69ba714c3c3899.65506513",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:33:11",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69ba7157d62e02.05448927",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:33:23",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69ba7163affbf4.54445685",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:33:28",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69ba7168748898.63899428",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:33:34",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69ba716ec49898.95178314",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:33:38",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba7172999be2.49545563",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:33:44",
+        "level": "INFO",
+        "message": "Item not found: id=111111111",
+        "source_file": "logging.php",
+        "request_id": "69ba7178537522.93621041",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:33:49",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba717de4dd87.78889550",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:33:58",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba71862d75b1.66255582",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:35:16",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba71d45a8c23.40474362",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:35:16",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba71d4c546b7.00985054",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:35:17",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba71d57ac053.02306804",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:35:17",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba71d5f192e7.92023762",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:35:18",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba71d628a203.29351521",
+        "pid": 1882703
+    },
+    {
+        "timestamp": "2026-03-18 10:35:18",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba71d6558f37.62105610",
+        "pid": 1882704
+    },
+    {
+        "timestamp": "2026-03-18 10:35:19",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba71d7000526.83344395",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 10:36:05",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba7205f17da8.31157906",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 10:36:06",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba7206e5a754.90432462",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 10:36:09",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba7209180ef6.36687184",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 10:36:46",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba722e164f43.61357979",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 10:36:46",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba722eb978e4.85313485",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 10:36:46",
+        "level": "INFO",
+        "message": "Served item id=11111 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba722eea7549.21333918",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 10:36:49",
+        "level": "INFO",
+        "message": "Served 10 items (page 10, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba7231e2e957.91493774",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 10:40:06",
+        "level": "INFO",
+        "message": "Served 10 items (page 15, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba72f6cafb46.06400752",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 10:40:11",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba72fb88dbc3.73608576",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 10:40:15",
+        "level": "INFO",
+        "message": "Served 5 items (page 1, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba72ff541eb1.17677934",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 10:40:19",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba7303c197e4.40481574",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 10:40:23",
+        "level": "INFO",
+        "message": "Served 5 items (page 1, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba7307816647.04497508",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 10:50:49",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba7579edef32.43396416",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 10:51:24",
+        "level": "INFO",
+        "message": "Item not found: id=1111111565641",
+        "source_file": "logging.php",
+        "request_id": "69ba759c474a67.86770566",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:00:44",
+        "level": "INFO",
+        "message": "Served 5 items (page 5, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba77cc933c51.93086209",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:02:18",
+        "level": "INFO",
+        "message": "Served 5 items (page 5, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba782a63edf4.36447724",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:02:19",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba782b5b3b51.99885354",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:10:58",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a322a80e3.24526858",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:10:58",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a32e9d901.55940342",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:10:59",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a33849974.12437436",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:00",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a347cf573.28099978",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:00",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a34d04482.12849299",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:01",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a359dc7b9.00346903",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:02",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a361e7449.49674908",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:02",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a367e4ec0.31876076",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:02",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a36b4b394.23170359",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:03",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a370d6ec5.21275248",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:03",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a373a4708.51635830",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:03",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a37612dc1.59485973",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:03",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a37a955c0.44355564",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:08",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a3cca58d8.81072056",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:08",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a3cf35ac8.09341430",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:09",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a3d262924.97171713",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:10",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a3e1ae032.30429889",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:10",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a3e41abf0.59424607",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:16",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a44002360.71763212",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:20",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a48e2dc55.99524674",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:21",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69ba7a496bb630.92735344",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:11:22",
+        "level": "INFO",
+        "message": "Served item id=1100 (scope=extended)",
+        "source_file": "logging.php",
+        "request_id": "69ba7a4a1cb703.23411589",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:11:22",
+        "level": "INFO",
+        "message": "Served item id=1100 (scope=extended)",
+        "source_file": "logging.php",
+        "request_id": "69ba7a4a5daf45.75164970",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:21:11",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=extended)",
+        "source_file": "logging.php",
+        "request_id": "69ba7c974f5185.77321122",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:21:15",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba7c9b57e9e8.78094190",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:47:37",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69ba82c9385629.84313868",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:47:39",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69ba82cbb7a8b4.32372848",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:47:48",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba82d47270c1.19718805",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:48:14",
+        "level": "INFO",
+        "message": "Served 5 items (page 1, per_page 5, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69ba82ee9097f2.49080312",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-18 11:50:47",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69ba83876a2596.87890085",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-18 11:50:53",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69ba838d1bdb08.63131775",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-26 09:55:38",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69c4f48a393117.32837869",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-26 09:56:03",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69c4f4a3bfcd42.36330764",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-26 09:56:14",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69c4f4ae78f584.40575227",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-26 10:00:05",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69c4f595e17f48.09376040",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-26 10:00:10",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69c4f59a853ee7.12748972",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-26 10:00:30",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69c4f5ae467108.19973240",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-26 10:00:37",
+        "level": "INFO",
+        "message": "Served item id=5 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69c4f5b56220b6.35970298",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-03-26 10:00:56",
+        "level": "INFO",
+        "message": "Served item id=5 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69c4f5c86d1e70.76659493",
+        "pid": 1966301
+    },
+    {
+        "timestamp": "2026-03-26 10:01:03",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69c4f5cf27c529.67419706",
+        "pid": 1966303
+    },
+    {
+        "timestamp": "2026-04-09 10:20:29",
+        "level": "ERROR",
+        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
+        "source_file": "logging.php",
+        "request_id": "69d7614dd47c95.45418256",
+        "pid": 291712
+    },
+    {
+        "timestamp": "2026-04-09 10:22:22",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69d761be65b6f7.73571905",
+        "pid": 291712
+    },
+    {
+        "timestamp": "2026-04-09 10:22:38",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69d761ce4fa4a0.84263096",
+        "pid": 291712
+    },
+    {
+        "timestamp": "2026-04-09 10:22:59",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d761e39d14e6.39719613",
+        "pid": 291712
+    },
+    {
+        "timestamp": "2026-04-09 10:23:08",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d761ec1ac5e5.37627373",
+        "pid": 291712
+    },
+    {
+        "timestamp": "2026-04-09 10:23:21",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=extended)",
+        "source_file": "logging.php",
+        "request_id": "69d761f96ef330.96299427",
+        "pid": 291712
+    },
+    {
+        "timestamp": "2026-04-09 10:23:28",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d762005c37c4.09549200",
+        "pid": 291712
+    },
+    {
+        "timestamp": "2026-04-09 10:56:43",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=extended)",
+        "source_file": "logging.php",
+        "request_id": "69d769cbde6251.12919197",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 10:56:47",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69d769cf8cf175.74243660",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 10:58:08",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69d76a20e29a87.13864044",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 10:58:31",
+        "level": "INFO",
+        "message": "Served item id=100000 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69d76a377a2f07.07534928",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 10:58:34",
+        "level": "INFO",
+        "message": "Item not found: id=1000000",
+        "source_file": "logging.php",
+        "request_id": "69d76a3ac1d4e7.06615929",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 10:58:43",
+        "level": "INFO",
+        "message": "Served item id=100000 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69d76a4383aa38.02633770",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:08:23",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69d76c87f41072.03578225",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:08:47",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d76c9f6c1d19.03185682",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:08:50",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69d76ca2d2c906.35780117",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:08:56",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69d76ca81aa8b8.57750797",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:09:00",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69d76cacc39b58.59162668",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:09:06",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69d76cb25b76b3.98977197",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:09:10",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d76cb6c76456.58786711",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:09:42",
+        "level": "INFO",
+        "message": "Served item id=11 (scope=complete)",
+        "source_file": "logging.php",
+        "request_id": "69d76cd67ac866.40419562",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:16:39",
+        "level": "INFO",
+        "message": "Served item id=100000 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d76e773390d2.01619226",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:16:43",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69d76e7b3ef5f8.29201226",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:17:01",
+        "level": "INFO",
+        "message": "Served item id=100000 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d76e8dc27c48.49790669",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:17:04",
+        "level": "INFO",
+        "message": "Served item id=100000 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d76e90262d89.00039049",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:17:05",
+        "level": "INFO",
+        "message": "Served item id=100000 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d76e91122d18.69812412",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:17:07",
+        "level": "INFO",
+        "message": "Served item id=100000 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d76e9318fef4.95302055",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:17:11",
+        "level": "INFO",
+        "message": "Served item id=100000 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d76e97ca5b95.85621100",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-09 11:17:19",
+        "level": "INFO",
+        "message": "Served item id=100000 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69d76e9fd6f5a5.58601454",
+        "pid": 293409
+    },
+    {
+        "timestamp": "2026-04-15 11:07:30",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "69df5552a6c9b2.05469596",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:07:41",
+        "level": "INFO",
+        "message": "Served item id=1 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "69df555d40f242.43865086",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:08:49",
+        "level": "ERROR",
+        "message": "Exception in searchItems.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_bin,NONE) and (utf8_general_ci,COERCIBLE) for operation 'like'",
+        "source_file": "logging.php",
+        "request_id": "69df55a1860042.14622350",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:15:20",
+        "level": "ERROR",
+        "message": "Exception in searchItems.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_bin,NONE) and (utf8_general_ci,COERCIBLE) for operation 'like'",
+        "source_file": "logging.php",
+        "request_id": "69df5728d24879.79070555",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:18:44",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df57f4d312f6.05538654",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:19:22",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df581a635f54.94452841",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:19:23",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df581b28cdf3.25181146",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:19:31",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df582378f319.02129784",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:19:37",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5829e307c7.50734625",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:19:48",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5834b9dab3.70561627",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:20:15",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df584f29a484.82427084",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:20:26",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df585a9d44c7.49713315",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:20:42",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df586ac09989.19218437",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:20:51",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df58734d6228.24975200",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:22:44",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df58e48a5fc0.86251206",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:30:42",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5ac29ce644.32550857",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:30:43",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5ac3ed7eb7.93704324",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:30:47",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5ac7640f05.85804831",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:30:48",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5ac8040650.61144592",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:30:48",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5ac88b1b47.54266951",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:32:38",
+        "level": "INFO",
+        "message": "Missing search parameter q",
+        "source_file": "logging.php",
+        "request_id": "69df5b36881c78.14594899",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:32:40",
+        "level": "INFO",
+        "message": "Search served: q=panel, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5b38e5b5b6.36183044",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:34:31",
+        "level": "INFO",
+        "message": "Missing search parameter q",
+        "source_file": "logging.php",
+        "request_id": "69df5ba77df783.01129409",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:34:49",
+        "level": "INFO",
+        "message": "Search served: q=cizy, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5bb9c85662.30025913",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-15 11:34:57",
+        "level": "INFO",
+        "message": "Search served: q=city, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69df5bc1f419f4.59913732",
+        "pid": 516141
+    },
+    {
+        "timestamp": "2026-04-16 10:02:09",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=London, year=1995, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e09781f28bf9.29744519",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:02:31",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097973055b0.65721694",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:03:12",
+        "level": "INFO",
+        "message": "Search served: code=E0200000001, area=, year=, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097c02cf824.71090428",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:03:15",
+        "level": "INFO",
+        "message": "Search served: code=E02000000001, area=, year=, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097c3f114d7.08777199",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:03:21",
+        "level": "INFO",
+        "message": "Search served: code=EO2, area=, year=, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097c9307a08.29938829",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:03:26",
+        "level": "INFO",
+        "message": "Search served: code=EO2, area=, year=, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097ce6f9ad7.02551916",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:03:32",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097d47b18e3.67651122",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:03:39",
+        "level": "INFO",
+        "message": "Search served: code=E, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097db773217.41974705",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:03:45",
+        "level": "INFO",
+        "message": "Search served: code=EO1, area=, year=, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097e1f13f92.54747697",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:03:51",
+        "level": "INFO",
+        "message": "Search served: code=EO2, area=, year=, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097e71157e9.68600132",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:03:54",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097eaaa91c0.45115044",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:04:14",
+        "level": "INFO",
+        "message": "Search served: code=E02000001, area=, year=, measure=, value=, total=267, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e097fe5078d2.29640870",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:04:49",
+        "level": "INFO",
+        "message": "Missing search parameters - at least one required",
+        "source_file": "logging.php",
+        "request_id": "69e0982177ffa8.84569148",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:04:57",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=, measure=sales, value=, total=87487, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e09829915ff4.86160669",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 10:08:35",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=, measure=sales, value=, total=87487, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e09903582757.31850872",
+        "pid": 541031
+    },
+    {
+        "timestamp": "2026-04-16 14:00:00",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=London, year=1995, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cf40e399b8.19520900",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:00:15",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=1995, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cf4f9ca947.25497300",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:00:36",
+        "level": "INFO",
+        "message": "Search served: code=E, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cf645b7ed1.45923442",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:01:15",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cf8b72cf63.17477832",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:01:20",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=London, year=1995, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cf90180fc2.49919575",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:01:27",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=1995, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cf97a5c4e2.00022645",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:01:52",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cfb03328d0.02275576",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:02:14",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cfc62ca344.30914967",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:02:27",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cfd36b9068.37359511",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:02:31",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0cfd7747c05.83986315",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:05:23",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d08325ebe3.19409942",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:05:24",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d0845e7595.48497234",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:05:25",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d0851ea055.30274871",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:05:25",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d08546a445.43557556",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:05:25",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d08575bbe5.88959066",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:05:30",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=, value=, total=262461, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d08a0b8f06.43871079",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:05:51",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d09f44d8c1.75986402",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:05:56",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d0a496e088.35214914",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:06:04",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d0ac23cd80.46700371",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:06:18",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d0ba2bce73.92788449",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:06:55",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=City, year=, measure=, value=, total=267, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d0df8b3193.55711120",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:07:05",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=City of London, year=, measure=, value=, total=267, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d0e90d7077.50356909",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:07:23",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=City of London, year=20117, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d0fb56c836.79816689",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:07:27",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d0ff810df2.77758090",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:07:39",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d10bc495b5.05566397",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:07:46",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d112082644.33389600",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:11:36",
+        "level": "INFO",
+        "message": "Search served: code=, area=City, year=, measure=, value=, total=267, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d1f85acf68.69349241",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:11:53",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=, measure=Medianpage=1, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d2092661b0.08279080",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:14:06",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d28e9a7db2.54311325",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:14:07",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d28f36d6e9.54805877",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:14:19",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=, measure=, value=, total=267, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d29bdabf94.96278119",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:15:23",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d2db5ed9e1.30527296",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:15:27",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d2df406385.01536955",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:15:32",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d2e4922fe1.03173897",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:16:41",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d329d226c0.99638494",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:16:42",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d32ad4b673.63833614",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:16:43",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d32b18e5b1.97094926",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:17:05",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d341e3cae2.61482456",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:17:06",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d342b33f94.85136836",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:17:07",
+        "level": "INFO",
+        "message": "Search served: code=, area=City of London, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d343775512.19853519",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:17:15",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d34b507103.28795563",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:17:21",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d35127f4e0.13848054",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:17:23",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d35369f928.98877358",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:18:40",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d3a05ad613.70537354",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:18:40",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d3a088ac69.40046225",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-16 14:18:40",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e0d3a0adf998.35639394",
+        "pid": 547069
+    },
+    {
+        "timestamp": "2026-04-17 07:43:59",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=, measure=sales, value=, total=87487, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1c89f624eb1.22130767",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:44:22",
+        "level": "INFO",
+        "message": "Search served: code=E, area=, year=, measure=sales, value=, total=87487, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1c8b68dad52.77630714",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:44:30",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=sales, value=, total=87487, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1c8be73e589.61864072",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:44:41",
+        "level": "INFO",
+        "message": "Validation failed: Parametr \"year\" musí být v rozmezí 1800–2100.",
+        "source_file": "logging.php",
+        "request_id": "69e1c8c9650bf8.18126705",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:44:49",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=sales, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1c8d1a11cd7.52815313",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:45:43",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=London, year=1995, measure=, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1c907783560.17553963",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:47:45",
+        "level": "INFO",
+        "message": "Validation failed: Parametr \"year\" musí být v rozmezí 1800–2100.",
+        "source_file": "logging.php",
+        "request_id": "69e1c981042a37.09714354",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:47:45",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=sales, value=, total=87487, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1c981e0aa31.76438084",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:47:48",
+        "level": "INFO",
+        "message": "Validation failed: Parametr \"year\" musí být v rozmezí 1800–2100.",
+        "source_file": "logging.php",
+        "request_id": "69e1c98428d969.75014562",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:47:48",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=sales, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1c9849dc7e1.81635428",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:47:52",
+        "level": "INFO",
+        "message": "Validation failed: Parametr \"year\" musí být v rozmezí 1800–2100.",
+        "source_file": "logging.php",
+        "request_id": "69e1c988da5f82.23449743",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:48:02",
+        "level": "INFO",
+        "message": "Validation failed: Parametr \"year\" musí být v rozmezí 1800–2100.",
+        "source_file": "logging.php",
+        "request_id": "69e1c992f07c94.17362959",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:51:46",
+        "level": "INFO",
+        "message": "Validation failed: Parametr \"year\" musí být v rozmezí 1800–2100.",
+        "source_file": "logging.php",
+        "request_id": "69e1ca72f38e14.51980563",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:53:34",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=sales, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cade4b8164.16415992",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:54:41",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=median, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cb216fb127.30767452",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:54:50",
+        "level": "INFO",
+        "message": "Search served: code=E02, area=, year=, measure=sales, value=, total=87487, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cb2a489fa7.98951079",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:55:19",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=, measure=sales, value=, total=87487, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cb47e5aca7.21924745",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:55:34",
+        "level": "INFO",
+        "message": "Search served: code=E020000001, area=, year=, measure=sales, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cb56f04bb7.25809375",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:55:42",
+        "level": "INFO",
+        "message": "Search served: code=E02000001, area=, year=, measure=sales, value=, total=89, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cb5ed4df30.46902437",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:56:17",
+        "level": "INFO",
+        "message": "Search served: code=E02000001, area=, year=, measure=sales, value=, total=89, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cb817f1d29.43198272",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:56:40",
+        "level": "INFO",
+        "message": "Search served: code=E02000001, area=, year=, measure=sales, value=154, total=1, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cb98281a52.16022074",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:57:33",
+        "level": "INFO",
+        "message": "Search served: code=E02000001, area=City, year=, measure=sales, value=, total=89, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cbcd787a50.24627320",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:57:49",
+        "level": "INFO",
+        "message": "Search served: code=E02000001, area=City, year=, measure=sales, value=282, total=1, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cbdde71fd2.11465336",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 07:58:05",
+        "level": "INFO",
+        "message": "Search served: code=E02000001, area=City, year=2015, measure=sales, value=282, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cbeda4dd59.90460237",
+        "pid": 560292
+    },
+    {
+        "timestamp": "2026-04-17 08:10:37",
+        "level": "INFO",
+        "message": "Search served: code=E02000001, area=City, year=, measure=sales, value=282, total=1, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cedddec8e3.47764395",
+        "pid": 560889
+    },
+    {
+        "timestamp": "2026-04-17 08:10:47",
+        "level": "INFO",
+        "message": "Search served: code=, area=, year=2017, measure=median, value=, total=0, page=1",
+        "source_file": "logging.php",
+        "request_id": "69e1cee73b84f6.18541977",
+        "pid": 560889
     }
 ]

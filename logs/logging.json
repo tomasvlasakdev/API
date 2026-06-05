@@ -3286,5 +3286,21 @@
         "source_file": "logging.php",
         "request_id": "69e1cee73b84f6.18541977",
         "pid": 560889
+    },
+    {
+        "timestamp": "2026-04-23 10:56:22",
+        "level": "INFO",
+        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
+        "source_file": "oauth_handler.php",
+        "request_id": "69e9deb6017292.51515371",
+        "pid": 868778
+    },
+    {
+        "timestamp": "2026-05-07 11:27:25",
+        "level": "INFO",
+        "message": "Served 10 items (page 1, per_page 10, total 262461)",
+        "source_file": "logging.php",
+        "request_id": "69fc5afd752e49.28622584",
+        "pid": 905048
     }
 ]

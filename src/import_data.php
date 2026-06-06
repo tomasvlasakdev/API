@@ -5,17 +5,20 @@ require_once __DIR__ . '/logger.php';
 $logFile = __DIR__ . '/../logs/logging.json'; 
 
 
-function import_csv($db, $filePath, $logFile) {
-    if (!file_exists($filePath)) {
-        log_error($logFile, "Soubor $filePath neexistuje.");
+function import_csv($db, $csvData, $logFile) {
+    if (empty($csvData)) {
+        log_error($logFile, "Data k importu jsou prazdna.");
         return false;
     }
 
-    $handle = fopen($filePath, 'r');
+    $handle = fopen('php://memory', 'rw');
     if ($handle === false) {
-        log_error($logFile, "Nelze otevřít soubor $filePath.");
+        log_error($logFile, "Nelze vytvorit memory stream.");
         return false;
     }
+    
+    fwrite($handle, $csvData);
+    rewind($handle);
 
     $header = fgetcsv($handle, 0, ",", '"', "\\");
 

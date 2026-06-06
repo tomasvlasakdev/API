@@ -1,13 +1,10 @@
-<?php
-include_once '../config/config.php';
-?>
 
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   window.OneSignalDeferred = window.OneSignalDeferred || [];
   OneSignalDeferred.push(async function(OneSignal) {
     await OneSignal.init({
-      appId: "48497eb5-e6d4-40e0-95df-f8cea3dd4de1",
+      appId: "<?= $_ENV['ONESIGNAL_APP_ID'] ?? '48497eb5-e6d4-40e0-95df-f8cea3dd4de1' ?>",
     });
 
     const subId = await OneSignal.User.PushSubscription.id;

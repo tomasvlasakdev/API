@@ -15,8 +15,11 @@ function sendNotification($userId, $message){
     if (empty($subIds)) {
         return "User is not subscribed or not registered";
     }
+    $appId = $_ENV['ONESIGNAL_APP_ID'] ?? "48497eb5-e6d4-40e0-95df-f8cea3dd4de1";
+    $apiKey = $_ENV['ONESIGNAL_REST_API_KEY'] ?? "os_v2_app_jbex5npg2raobfo77dhkhxkn4fyyxcbaxb7esbvywqz2gwuwq6ghxbcmjqy63cas4ky7e7p7f3ipknu5a6umcehpdd27tdrvec74lmy";
+
     $data = [
-        "app_id" => "48497eb5-e6d4-40e0-95df-f8cea3dd4de1",
+        "app_id" => $appId,
         "include_player_ids" => $subIds,
         "contents" => ["en" => $message]
     ];
@@ -25,7 +28,7 @@ function sendNotification($userId, $message){
     $curl = curl_init("https://api.onesignal.com/notifications");
     curl_setopt($curl, CURLOPT_HTTPHEADER, [
         "Content-Type: application/json; charset=utf-8",
-        "Authorization: Basic os_v2_app_jbex5npg2raobfo77dhkhxkn4fyyxcbaxb7esbvywqz2gwuwq6ghxbcmjqy63cas4ky7e7p7f3ipknu5a6umcehpdd27tdrvec74lmy"
+        "Authorization: Basic " . $apiKey
     ]);
 
     

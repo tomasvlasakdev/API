@@ -1,70 +1,3 @@
-<?php
-require_once '../config/config.php';
-require_once '../library/functions.php';
-require_once '../src/logger.php';
-include_once 'notifs.php';
-
-$logFile = __DIR__ . '/../logs/logging.json';
-
-// Only admins can access this page
-requireRole('admin');
-
-// Handle user actions
-if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
-    $action = $_POST['action'];
-    $user_id = filter_var($_POST['user_id'] ?? 0, FILTER_VALIDATE_INT);
-
-    if (!$user_id) {
-        $error = "Invalid user ID";
-    } else {
-        // This part was created with assistance of AI
-        try {
-            switch ($action) {
-                case 'change_role':
-                    $new_role = $_POST['new_role'];
-                    if (in_array($new_role, ['admin', 'developer', 'visitor'])) {
-                        $stmt = $db->prepare("UPDATE users_housing_data SET role = ? WHERE id = ?");
-                        $stmt->execute([$new_role, $user_id]);
-                        log_info($logFile, "Admin changed user role: User ID $user_id to $new_role");
-                        $success = "Role updated successfully";
-                    }
-                    break;
-
-                case 'block':
-                    $stmt = $db->prepare("UPDATE users_housing_data SET is_blocked = 1 WHERE id = ?");
-                    $stmt->execute([$user_id]);
-                    log_info($logFile, "Admin blocked user: User ID $user_id");
-                    $success = "User blocked successfully";
-                    break;
-
-                case 'unblock':
-                    $stmt = $db->prepare("UPDATE users_housing_data SET is_blocked = 0 WHERE id = ?");
-                    $stmt->execute([$user_id]);
-                    log_info($logFile, "Admin unblocked user: User ID $user_id");
-                    $success = "User unblocked successfully";
-                    break;
-
-                case 'delete':
-                    $stmt = $db->prepare("DELETE FROM users_housing_data WHERE id = ?");
-                    $stmt->execute([$user_id]);
-                    log_info($logFile, "Admin deleted user: User ID $user_id");
-                    $success = "User deleted successfully";
-                    break;
-            }
-        } catch (PDOException $e) {
-            log_error($logFile, "User management error: " . $e->getMessage());
-            $error = "Database error occurred";
-        }
-        // end
-    }
-}
-
-// Get all users
-$stmt = $db->prepare("SELECT * FROM users_housing_data ORDER BY created_at DESC");
-$stmt->execute();
-$users = $stmt->fetchAll(PDO::FETCH_ASSOC);
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -72,18 +5,20 @@ $users = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>User Management - London Housing Data</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
     
 </head>
 
 <body>
     <div class="container">
-        <main class="main">
-            <?php sidebar(); ?>
+        <?php include __DIR__ . '/components/sidebar.php'; ?>
+        <main class="main-content">
 
-            <section class="content">
-                <h1>User Management</h1>
-                <p>Manage users, roles, and permissions</p>
+            <section class="content glass-panel" style="padding: 24px;">
+                <div class="page-header">
+                    <h1>User Management</h1>
+                    <p>Manage users, roles, and permissions</p>
+                </div>
 
                 <?php if (isset($success)): ?>
                     <div class="alert alert-success"><?= htmlspecialchars($success) ?></div>

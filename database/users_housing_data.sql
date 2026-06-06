@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS users_housing_data (id INT AUTO_INCREMENT PRIMARY KEY, email VARCHAR(255) NOT NULL UNIQUE, name VARCHAR(255) NOT NULL, google_id VARCHAR(255) UNIQUE, role ENUM('admin','developer','visitor') DEFAULT 'visitor', is_blocked TINYINT(1) DEFAULT 0, created_at DATETIME DEFAULT CURRENT_TIMESTAMP, last_login DATETIME NULL);

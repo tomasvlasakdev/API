@@ -40,1862 +40,6 @@
         "pid": 457477
     },
     {
-        "timestamp": "2026-02-04 10:51:22",
-        "level": "INFO",
-        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
-        "source_file": "oauth_handler.php",
-        "request_id": "6983169a8c2ef9.56403537",
-        "pid": 457702
-    },
-    {
-        "timestamp": "2026-02-12 09:51:04",
-        "level": "INFO",
-        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
-        "source_file": "oauth_handler.php",
-        "request_id": "698d947830d449.36150067",
-        "pid": 641929
-    },
-    {
-        "timestamp": "2026-02-12 12:35:11",
-        "level": "DOWNLOAD",
-        "message": "Soubor uložen: \/var\/www\/vhost\/vlasato23\/docroot\/weby\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
-        "source_file": "download.php",
-        "request_id": "698dbaef3019a7.25981255",
-        "pid": 641930
-    },
-    {
-        "timestamp": "2026-02-12 12:35:11",
-        "level": "INFO",
-        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
-        "source_file": "import_data.php",
-        "request_id": "698dbaef3906c9.17745363",
-        "pid": 641930
-    },
-    {
-        "timestamp": "2026-02-12 12:35:25",
-        "level": "IMPORT",
-        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
-        "source_file": "import_data.php",
-        "request_id": "698dbafd8e4160.57630378",
-        "pid": 641930
-    },
-    {
-        "timestamp": "2026-02-21 13:32:24",
-        "level": "ERROR",
-        "message": "OAuth: Blocked user attempted login: tomhair2008@gmail.com",
-        "source_file": "oauth_handler.php",
-        "request_id": "6999a5d897b421.28426471",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-21 13:32:34",
-        "level": "ERROR",
-        "message": "OAuth: Blocked user attempted login: tomhair2008@gmail.com",
-        "source_file": "oauth_handler.php",
-        "request_id": "6999a5e27b5307.60444499",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-21 13:39:24",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "6999a77c541ad0.90374797",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-21 13:39:25",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "6999a77d6f0de0.21089948",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-21 13:39:25",
-        "level": "INFO",
-        "message": "Opened itemListOverview page",
-        "source_file": "logging.php",
-        "request_id": "6999a77debe3c9.69717499",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-21 13:39:26",
-        "level": "INFO",
-        "message": "Opened itemListOverview page",
-        "source_file": "logging.php",
-        "request_id": "6999a77e78eee6.72981612",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-21 13:39:27",
-        "level": "INFO",
-        "message": "Opened itemListOverview page",
-        "source_file": "logging.php",
-        "request_id": "6999a77f523791.69869917",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-21 13:39:28",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "6999a780ea9556.72272401",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-21 13:39:48",
-        "level": "INFO",
-        "message": "Served 10 items (page 2, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "6999a7942aa388.86577229",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-21 13:43:35",
-        "level": "INFO",
-        "message": "Served 50 items (page 1, per_page 50)",
-        "source_file": "logging.php",
-        "request_id": "6999a877297286.95312486",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-21 13:43:41",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "6999a87d48d2f1.48316923",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-21 13:43:47",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "6999a8833374d9.09018012",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-21 13:43:51",
-        "level": "INFO",
-        "message": "Served 12 items (page 1, per_page 12)",
-        "source_file": "logging.php",
-        "request_id": "6999a88747e149.54423335",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-21 13:43:54",
-        "level": "INFO",
-        "message": "Served 2 items (page 1, per_page 2)",
-        "source_file": "logging.php",
-        "request_id": "6999a88ac61127.25638917",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-21 14:29:41",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "6999b3457c8982.75870398",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-21 14:40:08",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "6999b5b80f23c8.58539761",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:23:11",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69a010ff171009.12507553",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:24:02",
-        "level": "INFO",
-        "message": "Opened itemListOverview page",
-        "source_file": "logging.php",
-        "request_id": "69a0113276af38.27001930",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:24:04",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69a011347c1d92.98819620",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:33:17",
-        "level": "INFO",
-        "message": "Opened itemListOverview page",
-        "source_file": "logging.php",
-        "request_id": "69a0135d6dcb80.45154689",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:33:18",
-        "level": "INFO",
-        "message": "Opened itemListOverview page",
-        "source_file": "logging.php",
-        "request_id": "69a0135e34bb68.93314889",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:33:20",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a0136020b8c2.60817714",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:34:05",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a0138d2f3531.10813326",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:34:05",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a0138deb7d85.49187126",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:34:42",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a013b2a2aa21.21922362",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:34:43",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a013b3b82ba0.33611184",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:34:44",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a013b44d14b0.25410973",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:34:54",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a013bec517e5.93467924",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:34:55",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a013bf942d06.66956575",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:35:33",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a013e57d6c53.68835251",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:35:34",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a013e67351b6.69635866",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:35:34",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a013e6e9b1e9.53438864",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:36:07",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a01407de8634.85663398",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:36:08",
-        "level": "ERROR",
-        "message": "Database unavailable: unknown",
-        "source_file": "logging.php",
-        "request_id": "69a0140847adf9.13906261",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:38:06",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69a0147e268304.56172847",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-02-26 10:38:07",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69a0147f0172d0.64716340",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-02-26 10:38:50",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69a014aa3f9cb3.05376365",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-03-12 10:25:26",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69b28686b8ae71.67578259",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-03-12 10:25:40",
-        "level": "INFO",
-        "message": "Opened itemListOverview page",
-        "source_file": "logging.php",
-        "request_id": "69b28694397bb9.74183642",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-03-12 10:25:46",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69b2869a0faaa9.79961769",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-03-12 10:25:48",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69b2869c874442.17599456",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-03-12 11:17:10",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69b292a648bb40.48426225",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-03-12 11:20:34",
-        "level": "INFO",
-        "message": "Served 51 items (page 3, per_page 51)",
-        "source_file": "logging.php",
-        "request_id": "69b29372030144.04890416",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-03-12 11:20:49",
-        "level": "INFO",
-        "message": "Served 51 items (page 3, per_page 51)",
-        "source_file": "logging.php",
-        "request_id": "69b29381c5d2c7.35908811",
-        "pid": 724275
-    },
-    {
-        "timestamp": "2026-03-12 11:22:04",
-        "level": "INFO",
-        "message": "Served 51 items (page 3, per_page 51)",
-        "source_file": "logging.php",
-        "request_id": "69b293ccb1a793.86520623",
-        "pid": 724274
-    },
-    {
-        "timestamp": "2026-03-18 09:45:46",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69ba663ab07102.17691236",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 09:45:58",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69ba66466d0199.00559888",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 09:46:05",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69ba664d37e251.69390431",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 09:46:09",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69ba665135fca9.26367813",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 09:46:12",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69ba6654cc2da6.19155546",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 09:46:41",
-        "level": "INFO",
-        "message": "Opened itemListOverview page",
-        "source_file": "logging.php",
-        "request_id": "69ba667175e913.95522398",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 09:46:43",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69ba6673311696.05629207",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 09:46:50",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69ba667ac29830.58786989",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 09:46:59",
-        "level": "INFO",
-        "message": "Served 3 items (page 10, per_page 3)",
-        "source_file": "logging.php",
-        "request_id": "69ba668324ba51.93261442",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 09:47:01",
-        "level": "INFO",
-        "message": "Served 1 items (page 10, per_page 1)",
-        "source_file": "logging.php",
-        "request_id": "69ba6685f1d122.97629952",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 09:47:35",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10)",
-        "source_file": "logging.php",
-        "request_id": "69ba66a7975473.50656380",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 09:54:22",
-        "level": "INFO",
-        "message": "Served 3 items (page 10, per_page 3)",
-        "source_file": "logging.php",
-        "request_id": "69ba683e4541c8.89722868",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 09:58:23",
-        "level": "INFO",
-        "message": "Served 5 items (page 10, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba692fc737e9.11318769",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 09:58:24",
-        "level": "INFO",
-        "message": "Served 5 items (page 10, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6930d06e56.54736383",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 09:58:36",
-        "level": "INFO",
-        "message": "Served 5 items (page 10, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba693cf1ab29.01588441",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:00:22",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba69a6635f18.26665269",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:00:35",
-        "level": "INFO",
-        "message": "Served 5 items (page 10, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba69b3d06b70.84163536",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:00:36",
-        "level": "INFO",
-        "message": "Served 5 items (page 10, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba69b46c05b1.23251207",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:00:37",
-        "level": "INFO",
-        "message": "Served 5 items (page 10, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba69b58020c4.52893815",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:00:46",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba69be9a6a24.13355162",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:00:52",
-        "level": "INFO",
-        "message": "Served 5 items (page 10, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba69c46edad8.15637183",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:00:57",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba69c90992d5.50907043",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:01:26",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba69e6075648.53434477",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:01:37",
-        "level": "INFO",
-        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
-        "source_file": "oauth_handler.php",
-        "request_id": "69ba69f1b6fc21.82919639",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:02:55",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6a3f4a47a0.94918079",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:02:56",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6a40129088.75807326",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:04:34",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6aa20b9198.58681912",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:04:35",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6aa3696a10.27870290",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:04:36",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6aa448a8b5.39545113",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:04:36",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6aa4788605.58211642",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:04:36",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6aa49d1fb1.32698536",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:05:00",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6abc08d442.16898095",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:05:02",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6abe754776.99734605",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:05:02",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6abec5b6b3.90661723",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:07:17",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6b452b6f20.95598533",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:10:27",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6c03341930.19293407",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:10:30",
-        "level": "INFO",
-        "message": "Invalid or missing id parameter for itemDetail",
-        "source_file": "logging.php",
-        "request_id": "69ba6c06d69186.59876007",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:11:01",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba6c2514fbc6.90845339",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:12:09",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba6c69bb3985.47742691",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:12:28",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba6c7c53e061.01588633",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:12:28",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba6c7cea5165.96908101",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:14:08",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6ce05972a2.08138659",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:14:09",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6ce1e17f75.72909310",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:14:19",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba6cebe3e970.94908456",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:14:44",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba6d04b0a741.63206389",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:14:53",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=extended)",
-        "source_file": "logging.php",
-        "request_id": "69ba6d0d0eaef3.49554833",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:14:57",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6d1135cb37.37519837",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:20:37",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6e65612b95.32372728",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:20:38",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6e660d14f0.63658206",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:20:38",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6e66783a76.09485697",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:22:29",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6ed54e7118.37935836",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:23:12",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f00749856.09719400",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:24:21",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f4572e8e5.90006548",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:24:22",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f4661f2b7.76489417",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:24:23",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f473bcc57.65134488",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:24:24",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f480179a3.50451139",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:24:25",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f49e1b5a1.69095425",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:24:31",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f4fa16416.67231756",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:24:39",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f576bea07.02903496",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:24:39",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f57e8c750.98344327",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:24:40",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f588e9db2.98092637",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:24:40",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f58c180f6.06048789",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:06",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f7287fb12.55724585",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:07",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f734e44a2.24697840",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:08",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f741466a2.57448135",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:08",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f7448d6f1.92026419",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:11",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f774f4505.93870155",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:32",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f8c0da9d9.43194938",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:32",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f8ca986c4.47800472",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:33",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f8d4882b3.97086043",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:33",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f8d873f16.12286806",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:36",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f904d5d12.48840683",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:36",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f90cc16d6.62088218",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:37",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f916e5eb3.37124121",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:38",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f92284968.06670982",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:43",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f975310c9.43424053",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:44",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f9807c758.00839793",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:44",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f9882e324.96944949",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:44",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f98b708a7.92754324",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:44",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f98eafeb5.95065517",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:45",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f9929e6e3.58091872",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:45",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f99566133.59971545",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:46",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f9a0124c9.12980211",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:46",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f9a371d43.40345797",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:46",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6f9a660cb7.10335408",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:25:55",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fa3de6171.41778969",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:25:56",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fa45f0c38.60684718",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:04",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6facb17be4.84264173",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:07",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fafd0aa70.90586890",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:08",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb05516a2.90893647",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:08",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb0ea0e30.49380067",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:10",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb20fe697.28758453",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:10",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb2de9165.46120729",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:11",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb39bf1b7.58470189",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:12",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb40d2b45.03189192",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:12",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb43dbf46.95131116",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:12",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb460d780.00704342",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:12",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb4b4f450.41253415",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:12",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb4e32856.80774214",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:13",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb516d5d8.07882696",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:13",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fb5412970.35522854",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:25",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fc10193a6.46728533",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:25",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fc186b109.95138176",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:25",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fc1c08ab3.84262506",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:47",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fd7657800.18728890",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:47",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fd7f1ca43.35626846",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:48",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fd8461a27.74637351",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:48",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fd8785ea1.59863790",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:52",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fdc253940.24493386",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:26:52",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fdc6cf3f6.71232507",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:26:52",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba6fdca35670.00299208",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:29:48",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba708cb56247.60149920",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:29:49",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba708d96a488.50506146",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:08",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70a0841f36.92808168",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:09",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70a13ba586.70276479",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:09",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70a183e3e2.66021775",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:17",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70a928ecf1.97593920",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:17",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70a940d742.71529147",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:27",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70b311a724.35412705",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:27",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70b3856a39.13575697",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:28",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70b41425f8.50188342",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:28",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70b48da582.08948810",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:29",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70b504d684.55603291",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:29",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70b53d2ca9.64284285",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:29",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70b56c0e98.35710446",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:29",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70b59a24d6.65875632",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:29",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70b5bf3c20.20703602",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:41",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c1dbb518.61958645",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:42",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c21184d2.24492650",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:42",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c24100c7.30103677",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:43",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c318b7d0.61890535",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:43",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c383e7b0.83656125",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:43",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c3b1f595.95734013",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:44",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c42ca944.69023588",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:44",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c45a1671.25988510",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:44",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c4eaeb92.43767124",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:45",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c52b6b89.50186929",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:46",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c621e3d6.62218289",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:30:47",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c7965b68.88785496",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:30:48",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70c856b9d4.83934412",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:31:36",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba70f86b8aa2.41865701",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:32:59",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba714bb47650.88283218",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:33:00",
-        "level": "INFO",
-        "message": "Served item id=11 (scope=complete)",
-        "source_file": "logging.php",
-        "request_id": "69ba714c3c3899.65506513",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:33:11",
-        "level": "INFO",
-        "message": "Invalid or missing id parameter for itemDetail",
-        "source_file": "logging.php",
-        "request_id": "69ba7157d62e02.05448927",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:33:23",
-        "level": "INFO",
-        "message": "Invalid or missing id parameter for itemDetail",
-        "source_file": "logging.php",
-        "request_id": "69ba7163affbf4.54445685",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:33:28",
-        "level": "INFO",
-        "message": "Invalid or missing id parameter for itemDetail",
-        "source_file": "logging.php",
-        "request_id": "69ba7168748898.63899428",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:33:34",
-        "level": "INFO",
-        "message": "Invalid or missing id parameter for itemDetail",
-        "source_file": "logging.php",
-        "request_id": "69ba716ec49898.95178314",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:33:38",
-        "level": "INFO",
-        "message": "Served item id=1 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba7172999be2.49545563",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:33:44",
-        "level": "INFO",
-        "message": "Item not found: id=111111111",
-        "source_file": "logging.php",
-        "request_id": "69ba7178537522.93621041",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:33:49",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba717de4dd87.78889550",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:33:58",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba71862d75b1.66255582",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:35:16",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba71d45a8c23.40474362",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:35:16",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba71d4c546b7.00985054",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:35:17",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba71d57ac053.02306804",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:35:17",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba71d5f192e7.92023762",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:35:18",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba71d628a203.29351521",
-        "pid": 1882703
-    },
-    {
-        "timestamp": "2026-03-18 10:35:18",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba71d6558f37.62105610",
-        "pid": 1882704
-    },
-    {
-        "timestamp": "2026-03-18 10:35:19",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba71d7000526.83344395",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 10:36:05",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba7205f17da8.31157906",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 10:36:06",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba7206e5a754.90432462",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 10:36:09",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba7209180ef6.36687184",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 10:36:46",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba722e164f43.61357979",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 10:36:46",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba722eb978e4.85313485",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 10:36:46",
-        "level": "INFO",
-        "message": "Served item id=11111 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba722eea7549.21333918",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 10:36:49",
-        "level": "INFO",
-        "message": "Served 10 items (page 10, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba7231e2e957.91493774",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 10:40:06",
-        "level": "INFO",
-        "message": "Served 10 items (page 15, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba72f6cafb46.06400752",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 10:40:11",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba72fb88dbc3.73608576",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 10:40:15",
-        "level": "INFO",
-        "message": "Served 5 items (page 1, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba72ff541eb1.17677934",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 10:40:19",
-        "level": "INFO",
-        "message": "Served 10 items (page 1, per_page 10, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba7303c197e4.40481574",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 10:40:23",
-        "level": "INFO",
-        "message": "Served 5 items (page 1, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba7307816647.04497508",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 10:50:49",
-        "level": "INFO",
-        "message": "Served item id=1 (scope=basic)",
-        "source_file": "logging.php",
-        "request_id": "69ba7579edef32.43396416",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 10:51:24",
-        "level": "INFO",
-        "message": "Item not found: id=1111111565641",
-        "source_file": "logging.php",
-        "request_id": "69ba759c474a67.86770566",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 11:00:44",
-        "level": "INFO",
-        "message": "Served 5 items (page 5, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba77cc933c51.93086209",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 11:02:18",
-        "level": "INFO",
-        "message": "Served 5 items (page 5, per_page 5, total 262461)",
-        "source_file": "logging.php",
-        "request_id": "69ba782a63edf4.36447724",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 11:02:19",
-        "level": "ERROR",
-        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
-        "source_file": "logging.php",
-        "request_id": "69ba782b5b3b51.99885354",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 11:10:58",
-        "level": "ERROR",
-        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
-        "source_file": "logging.php",
-        "request_id": "69ba7a322a80e3.24526858",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 11:10:58",
-        "level": "ERROR",
-        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
-        "source_file": "logging.php",
-        "request_id": "69ba7a32e9d901.55940342",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 11:10:59",
-        "level": "ERROR",
-        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
-        "source_file": "logging.php",
-        "request_id": "69ba7a33849974.12437436",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 11:11:00",
-        "level": "ERROR",
-        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
-        "source_file": "logging.php",
-        "request_id": "69ba7a347cf573.28099978",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 11:11:00",
-        "level": "ERROR",
-        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
-        "source_file": "logging.php",
-        "request_id": "69ba7a34d04482.12849299",
-        "pid": 1966301
-    },
-    {
-        "timestamp": "2026-03-18 11:11:01",
-        "level": "ERROR",
-        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
-        "source_file": "logging.php",
-        "request_id": "69ba7a359dc7b9.00346903",
-        "pid": 1966303
-    },
-    {
-        "timestamp": "2026-03-18 11:11:02",
-        "level": "ERROR",
-        "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
-        "source_file": "logging.php",
-        "request_id": "69ba7a361e7449.49674908",
-        "pid": 1966301
-    },
-    {
         "timestamp": "2026-03-18 11:11:02",
         "level": "ERROR",
         "message": "Database unavailable: Konfigurace databáze chybí nebo není PDO.",
@@ -3302,5 +1446,957 @@
         "source_file": "logging.php",
         "request_id": "69fc5afd752e49.28622584",
         "pid": 905048
+    },
+    {
+        "timestamp": "2026-06-05 11:22:14",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a229546df0c67.70113649",
+        "pid": 47982
+    },
+    {
+        "timestamp": "2026-06-05 11:22:17",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a229549d6d099.29313025",
+        "pid": 47982
+    },
+    {
+        "timestamp": "2026-06-05 11:36:29",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22989d4a07e3.19413477",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:36:29",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a22989d4bef64.48490966",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:36:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22989fdff931.91214688",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:36:31",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a22989fe28543.01231344",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:37:35",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a2298df89fd25.42532943",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:37:35",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a2298df8c7b12.80623650",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:37:38",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a2298e2890932.68134714",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:37:38",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a2298e28b2b82.64232767",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:37:41",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a2298e56b7509.32405987",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:37:41",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a2298e56f61f6.54917524",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:37:43",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a2298e7aa9386.94488316",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:37:43",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a2298e7ad1774.50792884",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:38:21",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22990d603782.37040083",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:38:21",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a22990d632561.89865357",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:38:32",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a2299185e5544.34510385",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:38:32",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a229918605e28.04094720",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:59:54",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a229e1a767211.19238962",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 11:59:54",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a229e1a77f532.65038997",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:02:43",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a229ec3025580.16493382",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:02:43",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a229ec3036a41.65162469",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:02:48",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a229ec81ae537.63853426",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:02:48",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a229ec81c4068.24328290",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:02:57",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a229ed1340cb6.86474905",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:02:57",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a229ed1359119.05168551",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:07:34",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a229fe6464179.99179020",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:07:34",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a229fe6477483.93146326",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:07:36",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a229fe8e74c78.48753779",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:07:36",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a229fe8e88a11.38599622",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:13:48",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a15ce1a552.16285358",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:13:48",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a22a15ce2fdd3.25645850",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:13:53",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a1610ffd90.83122127",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:13:53",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a22a161117fb0.31801109",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:13:57",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a165d0ff68.12324701",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:13:57",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a22a165d292c8.82919815",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:13:58",
+        "level": "ERROR",
+        "message": "OAuth: Database error - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.users_housing_data' doesn't exist",
+        "source_file": "oauth_handler.php",
+        "request_id": "6a22a16653a8a1.98768230",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:14:02",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a16ae4cd52.01095970",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:14:02",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a22a16ae61168.50095348",
+        "pid": 50909
+    },
+    {
+        "timestamp": "2026-06-05 12:16:21",
+        "level": "ERROR",
+        "message": "OAuth: Database error - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.users_housing_data' doesn't exist",
+        "source_file": "oauth_handler.php",
+        "request_id": "6a22a1f5b8e240.54622044",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:16:24",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a1f86434c9.12150777",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:16:24",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a1f8726391.74083585",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:16:41",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a209bf9af1.32931064",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:16:46",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a20e6799f7.71477469",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:16:46",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a20e74ab41.21525604",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:17:03",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a21fc737d0.26085549",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:17:06",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a222601623.29921991",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:17:06",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a2226d0ab4.01571302",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:17:23",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a2334abc86.83188918",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:17:26",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a236768a49.98666795",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:17:26",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a236834a76.34537034",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:17:43",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a247876d35.23815952",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:17:48",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a24c16a6e2.15820052",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:17:48",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a24c2365f6.48849498",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:18:05",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a25d5f6cb0.64139195",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:18:09",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a261e61b65.53638082",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:18:10",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a26201b758.97227417",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:18:27",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a2737d4898.48195337",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:18:27",
+        "level": "ERROR",
+        "message": "OAuth: Database error - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.users_housing_data' doesn't exist",
+        "source_file": "oauth_handler.php",
+        "request_id": "6a22a273a07d53.37478347",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:18:31",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a277bfcc56.86297406",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:18:31",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a277cf9c11.93242821",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:18:49",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a289477862.84393576",
+        "pid": 52676
+    },
+    {
+        "timestamp": "2026-06-05 12:22:10",
+        "level": "ERROR",
+        "message": "OAuth: Database error - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.users_housing_data' doesn't exist",
+        "source_file": "oauth_handler.php",
+        "request_id": "6a22a3526c38d9.87458401",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:22:19",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a35b1a9450.48943590",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:22:19",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a35b2a3ab8.59804219",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:22:36",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a36c55d0a4.47076547",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:22:36",
+        "level": "ERROR",
+        "message": "OAuth: Database error - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.users_housing_data' doesn't exist",
+        "source_file": "oauth_handler.php",
+        "request_id": "6a22a36c7bcd63.45004064",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:22:40",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a3707dc589.03906045",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:22:40",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a3708cbf34.14906645",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:22:57",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a381ce33b3.87163476",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:23:02",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a386684114.61918809",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:23:02",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a386760954.89307056",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:23:19",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a397c12e08.89883606",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:23:24",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a39c2838c5.40502174",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:23:24",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a39c36c5e7.89377476",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:23:41",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a3ad7ed087.95993167",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:23:46",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a3b23d7185.22702163",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:23:46",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a3b24be4a8.91159385",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:24:02",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a3c2ef52a9.53818696",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:24:03",
+        "level": "ERROR",
+        "message": "OAuth: Database error - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.users_housing_data' doesn't exist",
+        "source_file": "oauth_handler.php",
+        "request_id": "6a22a3c31e2d55.20100650",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:24:07",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/home\/tomasvlasakdev\/source\/projects\/API\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22a3c76ef982.57231013",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:24:07",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a3c77ce956.06930255",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:24:24",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22a3d8d24738.68102970",
+        "pid": 53668
+    },
+    {
+        "timestamp": "2026-06-05 12:55:49",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/html\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22ab35830601.36745338",
+        "pid": 20
+    },
+    {
+        "timestamp": "2026-06-05 12:55:49",
+        "level": "ERROR",
+        "message": "Chyba při TRUNCATE: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.DATA_API_HOUSING' doesn't exist",
+        "source_file": "import_data.php",
+        "request_id": "6a22ab358531d9.82336026",
+        "pid": 20
+    },
+    {
+        "timestamp": "2026-06-05 12:57:56",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/html\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22abb46f77d6.66417069",
+        "pid": 23
+    },
+    {
+        "timestamp": "2026-06-05 12:57:56",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22abb47d70b5.68507787",
+        "pid": 23
+    },
+    {
+        "timestamp": "2026-06-05 12:58:17",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22abc924bc72.46209196",
+        "pid": 23
+    },
+    {
+        "timestamp": "2026-06-05 13:01:28",
+        "level": "DOWNLOAD",
+        "message": "Soubor uložen: \/var\/www\/html\/config\/..\/data\/downloaded_housing_data.csv (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a22ac88656195.78479603",
+        "pid": 17
+    },
+    {
+        "timestamp": "2026-06-05 13:01:28",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a22ac8874eae5.35040794",
+        "pid": 17
+    },
+    {
+        "timestamp": "2026-06-05 13:01:49",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a22ac9d918de0.78124302",
+        "pid": 17
+    },
+    {
+        "timestamp": "2026-06-05 13:01:57",
+        "level": "INFO",
+        "message": "OAuth: New user registered: vlasato23@sps-prosek.cz",
+        "source_file": "oauth_handler.php",
+        "request_id": "6a22aca58ef778.75653567",
+        "pid": 18
+    },
+    {
+        "timestamp": "2026-06-05 13:19:51",
+        "level": "INFO",
+        "message": "User logged out: vlasato23@sps-prosek.cz",
+        "source_file": "logout.php",
+        "request_id": "6a22b0d7aaf512.34113879",
+        "pid": 21
+    },
+    {
+        "timestamp": "2026-06-05 13:20:49",
+        "level": "INFO",
+        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
+        "source_file": "oauth_handler.php",
+        "request_id": "6a22b111117b06.46681389",
+        "pid": 17
+    },
+    {
+        "timestamp": "2026-06-05 13:23:13",
+        "level": "INFO",
+        "message": "User logged out: vlasato23@sps-prosek.cz",
+        "source_file": "logout.php",
+        "request_id": "6a22b1a15b3d96.57072596",
+        "pid": 17
+    },
+    {
+        "timestamp": "2026-06-05 13:23:20",
+        "level": "INFO",
+        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
+        "source_file": "oauth_handler.php",
+        "request_id": "6a22b1a8c23b67.83898638",
+        "pid": 17
+    },
+    {
+        "timestamp": "2026-06-05 13:38:58",
+        "level": "INFO",
+        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
+        "source_file": "AuthController.php",
+        "request_id": "6a22b552300c34.53439108",
+        "pid": 22
+    },
+    {
+        "timestamp": "2026-06-05 13:44:43",
+        "level": "ERROR",
+        "message": "OAuth: Database error - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.users_housing_data' doesn't exist",
+        "source_file": "AuthController.php",
+        "request_id": "6a22b6ab461029.20374272",
+        "pid": 21
+    },
+    {
+        "timestamp": "2026-06-05 13:45:38",
+        "level": "ERROR",
+        "message": "OAuth: Database error - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.users_housing_data' doesn't exist",
+        "source_file": "AuthController.php",
+        "request_id": "6a22b6e21b6649.26591763",
+        "pid": 17
+    },
+    {
+        "timestamp": "2026-06-05 13:47:56",
+        "level": "ERROR",
+        "message": "OAuth: Database error - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vlasato23.users_housing_data' doesn't exist",
+        "source_file": "AuthController.php",
+        "request_id": "6a22b76c3658c0.58374879",
+        "pid": 18
+    },
+    {
+        "timestamp": "2026-06-05 13:56:28",
+        "level": "INFO",
+        "message": "OAuth: New user registered: vlasato23@sps-prosek.cz",
+        "source_file": "AuthController.php",
+        "request_id": "6a22b96c9faa29.24925067",
+        "pid": 17
+    },
+    {
+        "timestamp": "2026-06-05 17:12:58",
+        "level": "INFO",
+        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
+        "source_file": "AuthController.php",
+        "request_id": "6a22e77a39bf76.83496990",
+        "pid": 18
+    },
+    {
+        "timestamp": "2026-06-05 17:17:38",
+        "level": "INFO",
+        "message": "User logged out: vlasato23@sps-prosek.cz",
+        "source_file": "AuthController.php",
+        "request_id": "6a22e8922ca044.50299007",
+        "pid": 22
+    },
+    {
+        "timestamp": "2026-06-05 17:17:45",
+        "level": "INFO",
+        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
+        "source_file": "AuthController.php",
+        "request_id": "6a22e8992c5c00.11571555",
+        "pid": 17
+    },
+    {
+        "timestamp": "2026-06-06 08:43:52",
+        "level": "INFO",
+        "message": "User logged out: vlasato23@sps-prosek.cz",
+        "source_file": "AuthController.php",
+        "request_id": "6a23c1a88354a8.45971078",
+        "pid": 23
+    },
+    {
+        "timestamp": "2026-06-06 08:43:58",
+        "level": "INFO",
+        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
+        "source_file": "AuthController.php",
+        "request_id": "6a23c1aedfc6a9.05332192",
+        "pid": 21
+    },
+    {
+        "timestamp": "2026-06-06 08:47:12",
+        "level": "DOWNLOAD",
+        "message": "Data stazena do pameti (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a23c270494122.12064398",
+        "pid": 21
+    },
+    {
+        "timestamp": "2026-06-06 08:49:52",
+        "level": "INFO",
+        "message": "Admin blocked user: User ID 2",
+        "source_file": "UiController.php",
+        "request_id": "6a23c310776d89.91336007",
+        "pid": 20
+    },
+    {
+        "timestamp": "2026-06-06 08:49:54",
+        "level": "INFO",
+        "message": "Admin unblocked user: User ID 2",
+        "source_file": "UiController.php",
+        "request_id": "6a23c3126f2851.35295861",
+        "pid": 20
+    },
+    {
+        "timestamp": "2026-06-06 08:50:00",
+        "level": "INFO",
+        "message": "Admin changed user role: User ID 2 to admin",
+        "source_file": "UiController.php",
+        "request_id": "6a23c31824fb83.85176921",
+        "pid": 20
+    },
+    {
+        "timestamp": "2026-06-06 08:50:03",
+        "level": "INFO",
+        "message": "Admin deleted user: User ID 2",
+        "source_file": "UiController.php",
+        "request_id": "6a23c31becc7f8.06106702",
+        "pid": 20
+    },
+    {
+        "timestamp": "2026-06-06 08:50:25",
+        "level": "DOWNLOAD",
+        "message": "Data stazena do pameti (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a23c331b96b67.88689212",
+        "pid": 18
+    },
+    {
+        "timestamp": "2026-06-06 08:55:12",
+        "level": "DOWNLOAD",
+        "message": "Data stazena do pameti (velikost: 15255066 B)",
+        "source_file": "download.php",
+        "request_id": "6a23c45017c8a3.42119604",
+        "pid": 21
+    },
+    {
+        "timestamp": "2026-06-06 08:55:12",
+        "level": "INFO",
+        "message": "Tabulka DATA_API_HOUSING byla vyprázdněna.",
+        "source_file": "import_data.php",
+        "request_id": "6a23c4502f1a00.16752744",
+        "pid": 21
+    },
+    {
+        "timestamp": "2026-06-06 08:55:33",
+        "level": "IMPORT",
+        "message": "Import dokončen. Do tabulky DATA_API_HOUSING vloženo 262461 řádků.",
+        "source_file": "import_data.php",
+        "request_id": "6a23c465e0b215.79026823",
+        "pid": 21
+    },
+    {
+        "timestamp": "2026-06-06 08:56:11",
+        "level": "INFO",
+        "message": "User logged out: vlasato23@sps-prosek.cz",
+        "source_file": "AuthController.php",
+        "request_id": "6a23c48b5f0f88.10605203",
+        "pid": 20
+    },
+    {
+        "timestamp": "2026-06-06 08:56:17",
+        "level": "INFO",
+        "message": "OAuth: User logged in: vlasato23@sps-prosek.cz",
+        "source_file": "AuthController.php",
+        "request_id": "6a23c491004965.93726580",
+        "pid": 22
+    },
+    {
+        "timestamp": "2026-06-06 09:42:36",
+        "level": "INFO",
+        "message": "Invalid or missing id parameter for itemDetail",
+        "source_file": "logging.php",
+        "request_id": "6a23cf6c0afb84.82179642",
+        "pid": 22
+    },
+    {
+        "timestamp": "2026-06-06 09:42:46",
+        "level": "INFO",
+        "message": "Served item id=5 (scope=basic)",
+        "source_file": "logging.php",
+        "request_id": "6a23cf764e7ec4.37768266",
+        "pid": 17
     }
 ]

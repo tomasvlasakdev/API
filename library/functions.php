@@ -33,25 +33,6 @@ function format_log_entry($log, $format = 'text') {
   return ' ';
 }
 
-// HTML sidebar - OPRAVENÁ VERZE
-function sidebar() {
-  $current = basename($_SERVER['PHP_SELF']); 
-  ?>
-  <section class="sidebar">
-    <div class="sidebar-header">
-      <h2>London Housing Data</h2>
-      <div class="sidebar-nav">
-        <a href="interface.php" class="<?= $current === 'interface.php' ? 'active' : '' ?>">Dashboard</a>
-        <a href="logs.php" class="<?= $current === 'logs.php' ? 'active' : '' ?>">Logs</a>
-        <?php if (isset($_SESSION['user_id'])): ?>
-          <a href="users.php" class="<?= $current === 'users.php' ? 'active' : '' ?>">Users</a>
-          <a href="logout.php">Logout</a>
-        <?php endif; ?>
-      </div>
-    </div>
-  </section>
-  <?php
-}
 
 
 
@@ -83,25 +64,31 @@ function paginate_logs($logs, $current_page, $logs_per_page) {
 }
 
 function render_pagination($current_page, $total_pages) {
+  $params = $_GET;
+  $build_url = function($page) use ($params) {
+      $params['page'] = $page;
+      return '?' . http_build_query($params);
+  };
+
   $output = '<div class="pagination">';
   
-  $output .= '<a href="?page=' . max(1, $current_page - 1) . '" class="page-btn prev ' . ($current_page == 1 ? 'disabled' : '') . '">&laquo;</a>';
+  $output .= '<a href="' . $build_url(max(1, $current_page - 1)) . '" class="page-btn prev ' . ($current_page == 1 ? 'disabled' : '') . '">&laquo;</a>';
 
   $start = max(1, $current_page - 2);
   $end = min($total_pages, $current_page + 2);
 
   if ($start > 1)
-    $output .= '<a href="?page=1" class="page-btn">1</a><span class="dots">...</span>';
+    $output .= '<a href="' . $build_url(1) . '" class="page-btn">1</a><span class="dots">...</span>';
   
   for ($i = $start; $i <= $end; $i++) {
     $active = $i == $current_page ? 'active' : '';
-    $output .= '<a href="?page=' . $i . '" class="page-btn ' . $active . '">' . $i . '</a>';
+    $output .= '<a href="' . $build_url($i) . '" class="page-btn ' . $active . '">' . $i . '</a>';
   }
   
   if ($end < $total_pages)
-    $output .= '<span class="dots">...</span><a href="?page=' . $total_pages . '" class="page-btn">' . $total_pages . '</a>';
+    $output .= '<span class="dots">...</span><a href="' . $build_url($total_pages) . '" class="page-btn">' . $total_pages . '</a>';
 
-  $output .= '<a href="?page=' . min($total_pages, $current_page + 1) . '" class="page-btn next ' . ($current_page == $total_pages ? 'disabled' : '') . '">&raquo;</a>';
+  $output .= '<a href="' . $build_url(min($total_pages, $current_page + 1)) . '" class="page-btn next ' . ($current_page == $total_pages ? 'disabled' : '') . '">&raquo;</a>';
   $output .= '</div>';
   return $output;
 }
@@ -109,7 +96,7 @@ function render_pagination($current_page, $total_pages) {
 // Check if user is logged in
 function requireLogin() {
   if (!isset($_SESSION['user_id'])) {
-    header('Location: login.php');
+    header('Location: /login');
     exit();
   }
 }
@@ -129,7 +116,7 @@ function getCurrentUser() {
   }
   
   global $db;
-  $stmt = $db->prepare("SELECT * FROM users WHERE id = ?");
+  $stmt = $db->prepare("SELECT * FROM users_housing_data WHERE id = ?");
   $stmt->execute([$_SESSION['user_id']]);
   return $stmt->fetch(PDO::FETCH_ASSOC);
 }

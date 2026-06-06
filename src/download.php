@@ -34,22 +34,14 @@ function download_file(array $config) {
         return ['success' => false, 'error' => 'empty response'];
     }
 
-    // Saves to a file
-    $tmpFile = $config['output_file'] . '.tmp';
-    if (file_put_contents($tmpFile, $responseBody) === false) {
-        log_error($config['error_log'], "Nepodařilo se zapsat do souboru: $tmpFile");
-        return ['success' => false, 'error' => 'write failed'];
-    }
-    // Change name
-    rename($tmpFile, $config['output_file']);
-
+    // Return data directly without saving
     $size = strlen($responseBody);
-    log_download($config['error_log'], "Soubor uložen: {$config['output_file']} (velikost: $size B)");
+    log_download($config['error_log'], "Data stazena do pameti (velikost: $size B)");
 
     return [
         'success'   => true,
         'httpCode'  => $statusCode,
-        'file'      => $config['output_file'],
+        'data'      => $responseBody,
         'sizeBytes' => $size
     ];
 }
